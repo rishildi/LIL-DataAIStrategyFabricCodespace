@@ -1,0 +1,663 @@
+StartDateKey,EndDateKey,EventTypeKey,WikidataURI,EventName,City,Attendance
+20100203,20100210,1,,London Fashion Week,London,80999
+20100309,20100316,1,,London Book Fair,London,22397
+20100420,20100421,1,,London Marathon,London,664776
+20100508,20100515,1,,Chelsea Flower Show,London,143024
+20100624,20100628,1,,London Pride,London,306090
+20100709,20100716,1,,RHS Hampton Court Palace Garden Festival,London,120797
+20100813,20100816,1,,Notting Hill Carnival,London,946713
+20100908,20100915,1,,Thames Festival,London,82729
+20101009,20101016,1,,London Film Festival,London,146770
+20101104,20101107,1,,London Jazz Festival,London,39870
+20101111,20101118,1,,Christmas Lights Switch-On - Oxford Street,London,181354
+20101112,20101119,1,,Lord Mayor's Show,London,591086
+20101114,20101121,1,,Guy Fawkes Night - Victoria Embankment,London,51156
+20101203,20101204,1,,London International Horse Show,London,98757
+20101217,20101224,1,,New Year's Eve Fireworks,London,102615
+20110227,20110228,1,,London Fashion Week,London,82469
+20110319,20110326,1,,London Book Fair,London,27258
+20110407,20110408,1,,London Marathon,London,788883
+20110519,20110526,1,,Chelsea Flower Show,London,177162
+20110619,20110626,1,,London Pride,London,292756
+20110720,20110727,1,,RHS Hampton Court Palace Garden Festival,London,117786
+20110821,20110824,1,,Notting Hill Carnival,London,1080186
+20110913,20110920,1,,Thames Festival,London,85030
+20111025,20111028,1,,London Film Festival,London,153725
+20111109,20111112,1,,London Jazz Festival,London,42244
+20111113,20111120,1,,Guy Fawkes Night - Victoria Embankment,London,48579
+20111114,20111121,1,,Christmas Lights Switch-On - Oxford Street,London,183591
+20111117,20111124,1,,Lord Mayor's Show,London,593014
+20111205,20111212,1,,New Year's Eve Fireworks,London,96973
+20111228,20111228,1,,London International Horse Show,London,86337
+20120228,20120228,1,,London Fashion Week,London,77343
+20120311,20120318,1,,London Book Fair,London,23275
+20120423,20120424,1,,London Marathon,London,758089
+20120503,20120510,1,,Chelsea Flower Show,London,168905
+20120608,20120615,1,,London Pride,London,335807
+20120806,20120809,1,,Notting Hill Carnival,London,968843
+20120921,20120928,1,,Thames Festival,London,94064
+20121003,20121010,1,,London Film Festival,London,155389
+20121101,20121108,1,,Christmas Lights Switch-On - Oxford Street,London,221783
+20121105,20121108,1,,London Jazz Festival,London,47553
+20121108,20121115,1,,Lord Mayor's Show,London,560356
+20121115,20121122,1,,Guy Fawkes Night - Victoria Embankment,London,50349
+20121206,20121213,1,,New Year's Eve Fireworks,London,100945
+20121217,20121218,1,,London International Horse Show,London,84340
+20130207,20130214,1,,London Fashion Week,London,83927
+20130316,20130323,1,,London Book Fair,London,24373
+20130408,20130409,1,,London Marathon,London,740857
+20130527,20130528,1,,Chelsea Flower Show,London,143457
+20130605,20130612,1,,London Pride,London,300685
+20130707,20130714,1,,RHS Hampton Court Palace Garden Festival,London,132352
+20130807,20130810,1,,Notting Hill Carnival,London,1040842
+20130908,20130915,1,,Thames Festival,London,93987
+20131012,20131019,1,,London Film Festival,London,173343
+20131111,20131118,1,,Lord Mayor's Show,London,531028
+20131118,20131125,1,,Guy Fawkes Night - Victoria Embankment,London,54329
+20131122,20131125,1,,London Jazz Festival,London,47599
+20131124,20131128,1,,Christmas Lights Switch-On - Oxford Street,London,188642
+20131222,20131223,1,,London International Horse Show,London,89684
+20131225,20131228,1,,New Year's Eve Fireworks,London,110138
+20140202,20140209,1,,London Fashion Week,London,83096
+20140321,20140328,1,,London Book Fair,London,24753
+20140409,20140410,1,,London Marathon,London,805697
+20140525,20140528,1,,Chelsea Flower Show,London,161255
+20140603,20140610,1,,London Pride,London,318416
+20140725,20140728,1,,RHS Hampton Court Palace Garden Festival,London,126622
+20140823,20140826,1,,Notting Hill Carnival,London,1104797
+20140927,20140928,1,,Thames Festival,London,95795
+20141020,20141027,1,,London Film Festival,London,150957
+20141101,20141108,1,,Guy Fawkes Night - Victoria Embankment,London,52163
+20141117,20141124,1,,Christmas Lights Switch-On - Oxford Street,London,212574
+20141118,20141121,1,,London Jazz Festival,London,40538
+20141118,20141125,1,,Lord Mayor's Show,London,561136
+20141201,20141208,1,,New Year's Eve Fireworks,London,102374
+20141218,20141219,1,,London International Horse Show,London,82057
+20150225,20150228,1,,London Fashion Week,London,75956
+20150309,20150316,1,,London Book Fair,London,22837
+20150401,20150402,1,,London Marathon,London,796585
+20150505,20150512,1,,Chelsea Flower Show,London,145730
+20150628,20150628,1,,London Pride,London,271894
+20150707,20150714,1,,RHS Hampton Court Palace Garden Festival,London,126132
+20150821,20150824,1,,Notting Hill Carnival,London,897136
+20150902,20150909,1,,Thames Festival,London,84147
+20151002,20151009,1,,London Film Festival,London,168821
+20151104,20151111,1,,Guy Fawkes Night - Victoria Embankment,London,52180
+20151108,20151115,1,,Lord Mayor's Show,London,529035
+20151114,20151117,1,,London Jazz Festival,London,39943
+20151117,20151124,1,,Christmas Lights Switch-On - Oxford Street,London,219806
+20151216,20151223,1,,New Year's Eve Fireworks,London,88467
+20151219,20151220,1,,London International Horse Show,London,91646
+20160203,20160210,1,,London Fashion Week,London,86822
+20160324,20160328,1,,London Book Fair,London,25368
+20160406,20160407,1,,London Marathon,London,785665
+20160516,20160523,1,,Chelsea Flower Show,London,177158
+20160621,20160628,1,,London Pride,London,275518
+20160713,20160720,1,,RHS Hampton Court Palace Garden Festival,London,134260
+20160821,20160824,1,,Notting Hill Carnival,London,921073
+20160902,20160909,1,,Thames Festival,London,96588
+20161018,20161025,1,,London Film Festival,London,145593
+20161103,20161106,1,,London Jazz Festival,London,41961
+20161118,20161125,1,,Guy Fawkes Night - Victoria Embankment,London,53010
+20161123,20161128,1,,Lord Mayor's Show,London,618878
+20161128,20161128,1,,Christmas Lights Switch-On - Oxford Street,London,206014
+20161208,20161209,1,,London International Horse Show,London,96147
+20161212,20161219,1,,New Year's Eve Fireworks,London,109089
+20100401,20100402,1,,Tour de Yorkshire,Leeds,180029
+20100509,20100510,1,,Leeds 10K,Leeds,8643
+20100513,20100514,1,,Leeds Half Marathon,Leeds,10985
+20100801,20100804,1,,Reading Festival Leeds,Leeds,94031
+20100808,20100811,1,,Leeds West Indian Carnival,Leeds,94590
+20100815,20100818,1,,Leeds Festival,Leeds,93793
+20100818,20100825,1,,Leeds Pride,Leeds,32893
+20100914,20100921,1,,Leeds Food and Drink Festival,Leeds,24445
+20101014,20101021,1,,Light Night Leeds,Leeds,64760
+20101114,20101121,1,,Leeds Christmas Markets,Leeds,249138
+20101122,20101128,1,,Leeds International Film Festival,Leeds,28635
+20110414,20110415,1,,Tour de Yorkshire,Leeds,182513
+20110508,20110509,1,,Leeds Half Marathon,Leeds,10069
+20110516,20110517,1,,Leeds 10K,Leeds,7077
+20110803,20110806,1,,Leeds West Indian Carnival,Leeds,105125
+20110810,20110813,1,,Reading Festival Leeds,Leeds,90170
+20110817,20110820,1,,Leeds Festival,Leeds,89420
+20110828,20110828,1,,Leeds Pride,Leeds,31819
+20110918,20110925,1,,Leeds Food and Drink Festival,Leeds,24795
+20111018,20111025,1,,Light Night Leeds,Leeds,59221
+20111113,20111120,1,,Leeds Christmas Markets,Leeds,240167
+20111126,20111128,1,,Leeds International Film Festival,Leeds,27833
+20120415,20120416,1,,Tour de Yorkshire,Leeds,184722
+20120518,20120519,1,,Leeds 10K,Leeds,7140
+20120523,20120524,1,,Leeds Half Marathon,Leeds,9694
+20120805,20120812,1,,Leeds Pride,Leeds,37531
+20120808,20120811,1,,Leeds West Indian Carnival,Leeds,94521
+20120826,20120828,1,,Leeds Festival,Leeds,95096
+20120828,20120828,1,,Reading Festival Leeds,Leeds,92989
+20120902,20120909,1,,Leeds Food and Drink Festival,Leeds,23241
+20121006,20121013,1,,Light Night Leeds,Leeds,63508
+20121101,20121108,1,,Leeds International Film Festival,Leeds,26732
+20121122,20121128,1,,Leeds Christmas Markets,Leeds,267888
+20130409,20130410,1,,Tour de Yorkshire,Leeds,194196
+20130512,20130513,1,,Leeds 10K,Leeds,7470
+20130525,20130526,1,,Leeds Half Marathon,Leeds,11951
+20130811,20130814,1,,Leeds West Indian Carnival,Leeds,109432
+20130822,20130825,1,,Leeds Festival,Leeds,81031
+20130822,20130828,1,,Leeds Pride,Leeds,35261
+20130827,20130828,1,,Reading Festival Leeds,Leeds,83348
+20130914,20130921,1,,Leeds Food and Drink Festival,Leeds,24336
+20131016,20131023,1,,Light Night Leeds,Leeds,59281
+20131116,20131123,1,,Leeds International Film Festival,Leeds,30801
+20131124,20131128,1,,Leeds Christmas Markets,Leeds,229902
+20140407,20140408,1,,Tour de Yorkshire,Leeds,197825
+20140503,20140504,1,,Leeds 10K,Leeds,8539
+20140504,20140505,1,,Leeds Half Marathon,Leeds,11735
+20140803,20140806,1,,Leeds West Indian Carnival,Leeds,91320
+20140817,20140820,1,,Leeds Festival,Leeds,93539
+20140818,20140825,1,,Leeds Pride,Leeds,35801
+20140824,20140827,1,,Reading Festival Leeds,Leeds,89786
+20140925,20140928,1,,Leeds Food and Drink Festival,Leeds,25504
+20141025,20141028,1,,Light Night Leeds,Leeds,56360
+20141115,20141122,1,,Leeds Christmas Markets,Leeds,275172
+20141125,20141128,1,,Leeds International Film Festival,Leeds,26924
+20150411,20150412,1,,Tour de Yorkshire,Leeds,212539
+20150508,20150509,1,,Leeds Half Marathon,Leeds,10144
+20150521,20150522,1,,Leeds 10K,Leeds,7117
+20150808,20150811,1,,Leeds West Indian Carnival,Leeds,97192
+20150820,20150823,1,,Leeds Festival,Leeds,86440
+20150825,20150828,1,,Leeds Pride,Leeds,38287
+20150826,20150828,1,,Reading Festival Leeds,Leeds,87106
+20150923,20150928,1,,Leeds Food and Drink Festival,Leeds,22117
+20151021,20151028,1,,Light Night Leeds,Leeds,56793
+20151114,20151121,1,,Leeds International Film Festival,Leeds,32780
+20151120,20151127,1,,Leeds Christmas Markets,Leeds,252047
+20160413,20160414,1,,Tour de Yorkshire,Leeds,189356
+20160501,20160502,1,,Leeds 10K,Leeds,8863
+20160523,20160524,1,,Leeds Half Marathon,Leeds,11047
+20160805,20160808,1,,Leeds West Indian Carnival,Leeds,104954
+20160808,20160811,1,,Reading Festival Leeds,Leeds,84759
+20160820,20160827,1,,Leeds Pride,Leeds,37646
+20160827,20160828,1,,Leeds Festival,Leeds,99763
+20160925,20160928,1,,Leeds Food and Drink Festival,Leeds,25454
+20161025,20161028,1,,Light Night Leeds,Leeds,60306
+20161113,20161120,1,,Leeds Christmas Markets,Leeds,255513
+20161119,20161126,1,,Leeds International Film Festival,Leeds,27799
+20100223,20100224,1,,Brighton Half Marathon,Brighton,6547
+20100412,20100413,1,,Brighton Marathon,Brighton,10758
+20100523,20100526,1,,Great Escape Festival Brighton,Brighton,32380
+20100527,20100528,1,,Brighton Festival,Brighton,398201
+20100823,20100828,1,,Brighton Pride,Brighton,145198
+20100917,20100924,1,,Brighton Food and Drink Festival,Brighton,38909
+20101103,20101110,1,,Digital Brighton,Brighton,9506
+20101110,20101117,1,,Brighton Christmas Market,Brighton,141050
+20101215,20101222,1,,Burning the Clocks Brighton,Brighton,18770
+20101220,20101223,1,,Snowball Music Festival Brighton,Brighton,7583
+20110218,20110219,1,,Brighton Half Marathon,Brighton,5294
+20110421,20110422,1,,Brighton Marathon,Brighton,11542
+20110505,20110512,1,,Brighton Festival,Brighton,421762
+20110508,20110511,1,,Great Escape Festival Brighton,Brighton,27133
+20110827,20110828,1,,Brighton Pride,Brighton,147088
+20110909,20110916,1,,Brighton Food and Drink Festival,Brighton,35973
+20111104,20111111,1,,Brighton Christmas Market,Brighton,157966
+20111113,20111120,1,,Digital Brighton,Brighton,10460
+20111204,20111207,1,,Snowball Music Festival Brighton,Brighton,8638
+20111215,20111222,1,,Burning the Clocks Brighton,Brighton,20335
+20120207,20120208,1,,Brighton Half Marathon,Brighton,5403
+20120428,20120428,1,,Brighton Marathon,Brighton,11769
+20120516,20120523,1,,Brighton Festival,Brighton,468301
+20120525,20120528,1,,Great Escape Festival Brighton,Brighton,28571
+20120810,20120817,1,,Brighton Pride,Brighton,144950
+20120918,20120925,1,,Brighton Food and Drink Festival,Brighton,37306
+20121110,20121117,1,,Digital Brighton,Brighton,10393
+20121111,20121118,1,,Brighton Christmas Market,Brighton,136303
+20121210,20121213,1,,Snowball Music Festival Brighton,Brighton,7476
+20121222,20121228,1,,Burning the Clocks Brighton,Brighton,19419
+20130224,20130225,1,,Brighton Half Marathon,Brighton,5865
+20130416,20130417,1,,Brighton Marathon,Brighton,10863
+20130519,20130526,1,,Brighton Festival,Brighton,498357
+20130522,20130525,1,,Great Escape Festival Brighton,Brighton,30722
+20130801,20130808,1,,Brighton Pride,Brighton,176469
+20130915,20130922,1,,Brighton Food and Drink Festival,Brighton,34458
+20131112,20131119,1,,Digital Brighton,Brighton,9935
+20131118,20131125,1,,Brighton Christmas Market,Brighton,166231
+20131201,20131208,1,,Burning the Clocks Brighton,Brighton,19972
+20131206,20131209,1,,Snowball Music Festival Brighton,Brighton,7620
+20140218,20140219,1,,Brighton Half Marathon,Brighton,6371
+20140412,20140413,1,,Brighton Marathon,Brighton,12390
+20140504,20140507,1,,Great Escape Festival Brighton,Brighton,32132
+20140515,20140522,1,,Brighton Festival,Brighton,471542
+20140819,20140826,1,,Brighton Pride,Brighton,166810
+20140924,20140928,1,,Brighton Food and Drink Festival,Brighton,35776
+20141117,20141124,1,,Digital Brighton,Brighton,9625
+20141123,20141128,1,,Brighton Christmas Market,Brighton,138665
+20141211,20141218,1,,Burning the Clocks Brighton,Brighton,18472
+20141223,20141226,1,,Snowball Music Festival Brighton,Brighton,8065
+20150223,20150224,1,,Brighton Half Marathon,Brighton,5965
+20150427,20150428,1,,Brighton Marathon,Brighton,11884
+20150519,20150522,1,,Great Escape Festival Brighton,Brighton,32034
+20150525,20150528,1,,Brighton Festival,Brighton,435840
+20150813,20150820,1,,Brighton Pride,Brighton,156031
+20150911,20150918,1,,Brighton Food and Drink Festival,Brighton,37954
+20151107,20151114,1,,Brighton Christmas Market,Brighton,158589
+20151124,20151128,1,,Digital Brighton,Brighton,10120
+20151207,20151214,1,,Burning the Clocks Brighton,Brighton,19303
+20151209,20151212,1,,Snowball Music Festival Brighton,Brighton,7127
+20160223,20160224,1,,Brighton Half Marathon,Brighton,5986
+20160405,20160406,1,,Brighton Marathon,Brighton,11814
+20160512,20160515,1,,Great Escape Festival Brighton,Brighton,30235
+20160520,20160527,1,,Brighton Festival,Brighton,461582
+20160823,20160828,1,,Brighton Pride,Brighton,148415
+20160927,20160928,1,,Brighton Food and Drink Festival,Brighton,38650
+20161109,20161116,1,,Brighton Christmas Market,Brighton,158085
+20161112,20161119,1,,Digital Brighton,Brighton,10486
+20161202,20161205,1,,Snowball Music Festival Brighton,Brighton,8102
+20161209,20161216,1,,Burning the Clocks Brighton,Brighton,19233
+20100310,20100317,1,,Cambridge Science Festival,Cambridge,26217
+20100321,20100322,1,,Cambridge Half Marathon,Cambridge,6514
+20100409,20100416,1,,Cambridge Literary Festival,Cambridge,10783
+20100513,20100520,1,,Cambridge Beer Festival,Cambridge,44910
+20100615,20100618,1,,Strawberry Fair Cambridge,Cambridge,13517
+20100617,20100620,1,,Cambridge Junction Music Events,Cambridge,5047
+20100701,20100704,1,,Cambridge Summer Music Festival,Cambridge,8959
+20100705,20100708,1,,Cambridge Folk Festival,Cambridge,13430
+20101026,20101028,1,,Cambridge Film Festival,Cambridge,20568
+20101103,20101110,1,,Cambridge Christmas Market,Cambridge,79424
+20110315,20110322,1,,Cambridge Science Festival,Cambridge,22427
+20110322,20110323,1,,Cambridge Half Marathon,Cambridge,6296
+20110403,20110410,1,,Cambridge Literary Festival,Cambridge,8943
+20110519,20110526,1,,Cambridge Beer Festival,Cambridge,46398
+20110609,20110612,1,,Strawberry Fair Cambridge,Cambridge,14363
+20110615,20110618,1,,Cambridge Junction Music Events,Cambridge,4496
+20110722,20110725,1,,Cambridge Summer Music Festival,Cambridge,8617
+20110725,20110728,1,,Cambridge Folk Festival,Cambridge,12971
+20111025,20111028,1,,Cambridge Film Festival,Cambridge,20108
+20111114,20111121,1,,Cambridge Christmas Market,Cambridge,76799
+20120308,20120309,1,,Cambridge Half Marathon,Cambridge,6452
+20120308,20120315,1,,Cambridge Science Festival,Cambridge,27543
+20120426,20120428,1,,Cambridge Literary Festival,Cambridge,9538
+20120502,20120509,1,,Cambridge Beer Festival,Cambridge,41238
+20120602,20120605,1,,Cambridge Junction Music Events,Cambridge,5467
+20120625,20120628,1,,Strawberry Fair Cambridge,Cambridge,14655
+20120719,20120722,1,,Cambridge Summer Music Festival,Cambridge,7117
+20120728,20120728,1,,Cambridge Folk Festival,Cambridge,11478
+20121015,20121022,1,,Cambridge Film Festival,Cambridge,21960
+20121122,20121128,1,,Cambridge Christmas Market,Cambridge,72408
+20130303,20130304,1,,Cambridge Half Marathon,Cambridge,6422
+20130326,20130328,1,,Cambridge Science Festival,Cambridge,26747
+20130424,20130428,1,,Cambridge Literary Festival,Cambridge,10778
+20130526,20130528,1,,Cambridge Beer Festival,Cambridge,45678
+20130617,20130620,1,,Strawberry Fair Cambridge,Cambridge,16169
+20130624,20130627,1,,Cambridge Junction Music Events,Cambridge,4786
+20130710,20130713,1,,Cambridge Folk Festival,Cambridge,12904
+20130725,20130728,1,,Cambridge Summer Music Festival,Cambridge,7376
+20131010,20131017,1,,Cambridge Film Festival,Cambridge,21728
+20131106,20131113,1,,Cambridge Christmas Market,Cambridge,76732
+20140314,20140315,1,,Cambridge Half Marathon,Cambridge,6916
+20140319,20140326,1,,Cambridge Science Festival,Cambridge,25967
+20140410,20140417,1,,Cambridge Literary Festival,Cambridge,9853
+20140510,20140517,1,,Cambridge Beer Festival,Cambridge,40519
+20140601,20140604,1,,Strawberry Fair Cambridge,Cambridge,15567
+20140609,20140612,1,,Cambridge Junction Music Events,Cambridge,4431
+20140715,20140718,1,,Cambridge Folk Festival,Cambridge,12503
+20140717,20140720,1,,Cambridge Summer Music Festival,Cambridge,8290
+20141014,20141021,1,,Cambridge Film Festival,Cambridge,19065
+20141123,20141128,1,,Cambridge Christmas Market,Cambridge,79913
+20150307,20150314,1,,Cambridge Science Festival,Cambridge,24550
+20150320,20150321,1,,Cambridge Half Marathon,Cambridge,6949
+20150415,20150422,1,,Cambridge Literary Festival,Cambridge,10452
+20150508,20150515,1,,Cambridge Beer Festival,Cambridge,40879
+20150608,20150611,1,,Cambridge Junction Music Events,Cambridge,5554
+20150618,20150621,1,,Strawberry Fair Cambridge,Cambridge,14863
+20150702,20150705,1,,Cambridge Folk Festival,Cambridge,12227
+20150709,20150712,1,,Cambridge Summer Music Festival,Cambridge,7388
+20151020,20151027,1,,Cambridge Film Festival,Cambridge,17889
+20151122,20151128,1,,Cambridge Christmas Market,Cambridge,88547
+20160302,20160303,1,,Cambridge Half Marathon,Cambridge,6548
+20160318,20160325,1,,Cambridge Science Festival,Cambridge,23348
+20160423,20160428,1,,Cambridge Literary Festival,Cambridge,9766
+20160525,20160528,1,,Cambridge Beer Festival,Cambridge,44094
+20160602,20160605,1,,Strawberry Fair Cambridge,Cambridge,13875
+20160627,20160628,1,,Cambridge Junction Music Events,Cambridge,5432
+20160719,20160722,1,,Cambridge Summer Music Festival,Cambridge,7876
+20160728,20160728,1,,Cambridge Folk Festival,Cambridge,12930
+20161024,20161028,1,,Cambridge Film Festival,Cambridge,18076
+20161127,20161128,1,,Cambridge Christmas Market,Cambridge,85001
+20100306,20100307,1,,Liverpool Half Marathon,Liverpool,7425
+20100404,20100405,1,,Grand National,Liverpool,140539
+20100503,20100506,1,,Liverpool Sound City,Liverpool,20525
+20100609,20100612,1,,Africa Oye Liverpool,Liverpool,50438
+20100626,20100627,1,,Liverpool International Tennis Tournament,Liverpool,13614
+20100702,20100709,1,,Liverpool Pride,Liverpool,21970
+20100704,20100711,1,,Liverpool Biennial,Liverpool,187270
+20100810,20100813,1,,Liverpool International Music Festival,Liverpool,41705
+20100922,20100928,1,,Liverpool Food and Drink Festival,Liverpool,32436
+20101111,20101118,1,,Liverpool Christmas Markets,Liverpool,219932
+20110326,20110327,1,,Liverpool Half Marathon,Liverpool,8075
+20110419,20110420,1,,Grand National,Liverpool,144922
+20110513,20110516,1,,Liverpool Sound City,Liverpool,20574
+20110603,20110604,1,,Liverpool International Tennis Tournament,Liverpool,13706
+20110615,20110618,1,,Africa Oye Liverpool,Liverpool,48423
+20110718,20110725,1,,Liverpool Biennial,Liverpool,182511
+20110724,20110728,1,,Liverpool Pride,Liverpool,19984
+20110806,20110809,1,,Liverpool International Music Festival,Liverpool,35909
+20110921,20110928,1,,Liverpool Food and Drink Festival,Liverpool,27099
+20111108,20111115,1,,Liverpool Christmas Markets,Liverpool,207087
+20120312,20120313,1,,Liverpool Half Marathon,Liverpool,8059
+20120410,20120411,1,,Grand National,Liverpool,167736
+20120508,20120511,1,,Liverpool Sound City,Liverpool,19988
+20120608,20120609,1,,Liverpool International Tennis Tournament,Liverpool,16296
+20120624,20120627,1,,Africa Oye Liverpool,Liverpool,52068
+20120710,20120717,1,,Liverpool Pride,Liverpool,21323
+20120715,20120722,1,,Liverpool Biennial,Liverpool,193808
+20120812,20120815,1,,Liverpool International Music Festival,Liverpool,44681
+20120921,20120928,1,,Liverpool Food and Drink Festival,Liverpool,31053
+20121121,20121128,1,,Liverpool Christmas Markets,Liverpool,215545
+20130309,20130310,1,,Liverpool Half Marathon,Liverpool,8634
+20130410,20130411,1,,Grand National,Liverpool,132789
+20130519,20130522,1,,Liverpool Sound City,Liverpool,18286
+20130619,20130622,1,,Africa Oye Liverpool,Liverpool,48572
+20130624,20130625,1,,Liverpool International Tennis Tournament,Liverpool,15627
+20130708,20130715,1,,Liverpool Pride,Liverpool,20513
+20130724,20130728,1,,Liverpool Biennial,Liverpool,209431
+20130810,20130813,1,,Liverpool International Music Festival,Liverpool,41333
+20130910,20130917,1,,Liverpool Food and Drink Festival,Liverpool,32077
+20131123,20131128,1,,Liverpool Christmas Markets,Liverpool,190505
+20140309,20140310,1,,Liverpool Half Marathon,Liverpool,8794
+20140427,20140428,1,,Grand National,Liverpool,155696
+20140515,20140518,1,,Liverpool Sound City,Liverpool,20661
+20140613,20140614,1,,Liverpool International Tennis Tournament,Liverpool,16682
+20140621,20140624,1,,Africa Oye Liverpool,Liverpool,55283
+20140712,20140719,1,,Liverpool Pride,Liverpool,18651
+20140718,20140725,1,,Liverpool Biennial,Liverpool,196118
+20140814,20140817,1,,Liverpool International Music Festival,Liverpool,41827
+20140902,20140909,1,,Liverpool Food and Drink Festival,Liverpool,30572
+20141114,20141121,1,,Liverpool Christmas Markets,Liverpool,181600
+20150316,20150317,1,,Liverpool Half Marathon,Liverpool,8897
+20150409,20150410,1,,Grand National,Liverpool,132291
+20150515,20150518,1,,Liverpool Sound City,Liverpool,18825
+20150604,20150607,1,,Africa Oye Liverpool,Liverpool,52098
+20150626,20150627,1,,Liverpool International Tennis Tournament,Liverpool,15206
+20150707,20150714,1,,Liverpool Pride,Liverpool,20580
+20150724,20150728,1,,Liverpool Biennial,Liverpool,210876
+20150815,20150818,1,,Liverpool International Music Festival,Liverpool,43314
+20150924,20150928,1,,Liverpool Food and Drink Festival,Liverpool,27346
+20151102,20151109,1,,Liverpool Christmas Markets,Liverpool,221420
+20160310,20160311,1,,Liverpool Half Marathon,Liverpool,8473
+20160428,20160428,1,,Grand National,Liverpool,156688
+20160501,20160504,1,,Liverpool Sound City,Liverpool,21914
+20160603,20160604,1,,Liverpool International Tennis Tournament,Liverpool,16046
+20160616,20160619,1,,Africa Oye Liverpool,Liverpool,44300
+20160714,20160721,1,,Liverpool Biennial,Liverpool,207436
+20160722,20160728,1,,Liverpool Pride,Liverpool,21226
+20160807,20160810,1,,Liverpool International Music Festival,Liverpool,44793
+20160910,20160917,1,,Liverpool Food and Drink Festival,Liverpool,28752
+20161110,20161117,1,,Liverpool Christmas Markets,Liverpool,223804
+20100320,20100321,1,,Crufts Dog Show,Birmingham,152854
+20100520,20100527,1,,Birmingham Pride,Birmingham,42394
+20100522,20100528,1,,Birmingham NEC Motor Show,Birmingham,52977
+20100709,20100712,1,,Birmingham International Jazz and Blues Festival,Birmingham,18375
+20100807,20100814,1,,Brindleyplace Canal Festival,Birmingham,32939
+20100914,20100921,1,,Artsfest Birmingham,Birmingham,63741
+20101004,20101011,1,,Birmingham Literature Festival,Birmingham,21809
+20101026,20101027,1,,Birmingham International Marathon,Birmingham,11274
+20101108,20101115,1,,Frankfurt Christmas Market Birmingham,Birmingham,797111
+20110328,20110328,1,,Crufts Dog Show,Birmingham,145585
+20110506,20110513,1,,Birmingham NEC Motor Show,Birmingham,51386
+20110508,20110515,1,,Birmingham Pride,Birmingham,43500
+20110715,20110718,1,,Birmingham International Jazz and Blues Festival,Birmingham,20248
+20110823,20110828,1,,Brindleyplace Canal Festival,Birmingham,34462
+20110910,20110917,1,,Artsfest Birmingham,Birmingham,67726
+20111006,20111007,1,,Birmingham International Marathon,Birmingham,12827
+20111009,20111016,1,,Birmingham Literature Festival,Birmingham,18457
+20111107,20111114,1,,Frankfurt Christmas Market Birmingham,Birmingham,878068
+20120310,20120311,1,,Crufts Dog Show,Birmingham,160273
+20120510,20120517,1,,Birmingham NEC Motor Show,Birmingham,48872
+20120526,20120528,1,,Birmingham Pride,Birmingham,42983
+20120714,20120717,1,,Birmingham International Jazz and Blues Festival,Birmingham,20292
+20120817,20120824,1,,Brindleyplace Canal Festival,Birmingham,38574
+20120926,20120928,1,,Artsfest Birmingham,Birmingham,77932
+20121004,20121005,1,,Birmingham International Marathon,Birmingham,11661
+20121009,20121016,1,,Birmingham Literature Festival,Birmingham,17783
+20121109,20121116,1,,Frankfurt Christmas Market Birmingham,Birmingham,978700
+20130322,20130323,1,,Crufts Dog Show,Birmingham,156482
+20130514,20130521,1,,Birmingham Pride,Birmingham,35437
+20130527,20130528,1,,Birmingham NEC Motor Show,Birmingham,44004
+20130704,20130707,1,,Birmingham International Jazz and Blues Festival,Birmingham,17961
+20130818,20130825,1,,Brindleyplace Canal Festival,Birmingham,36569
+20130902,20130909,1,,Artsfest Birmingham,Birmingham,76701
+20131002,20131003,1,,Birmingham International Marathon,Birmingham,13032
+20131020,20131027,1,,Birmingham Literature Festival,Birmingham,19685
+20131125,20131128,1,,Frankfurt Christmas Market Birmingham,Birmingham,852290
+20140313,20140314,1,,Crufts Dog Show,Birmingham,167572
+20140510,20140517,1,,Birmingham NEC Motor Show,Birmingham,46522
+20140524,20140528,1,,Birmingham Pride,Birmingham,44075
+20140723,20140726,1,,Birmingham International Jazz and Blues Festival,Birmingham,21938
+20140824,20140828,1,,Brindleyplace Canal Festival,Birmingham,36991
+20140907,20140914,1,,Artsfest Birmingham,Birmingham,73058
+20141008,20141009,1,,Birmingham International Marathon,Birmingham,11134
+20141024,20141028,1,,Birmingham Literature Festival,Birmingham,21374
+20141121,20141128,1,,Frankfurt Christmas Market Birmingham,Birmingham,902031
+20150318,20150319,1,,Crufts Dog Show,Birmingham,145687
+20150526,20150528,1,,Birmingham Pride,Birmingham,44135
+20150526,20150528,1,,Birmingham NEC Motor Show,Birmingham,50959
+20150718,20150721,1,,Birmingham International Jazz and Blues Festival,Birmingham,17772
+20150807,20150814,1,,Brindleyplace Canal Festival,Birmingham,33859
+20150922,20150928,1,,Artsfest Birmingham,Birmingham,63326
+20151014,20151021,1,,Birmingham Literature Festival,Birmingham,20509
+20151015,20151016,1,,Birmingham International Marathon,Birmingham,11567
+20151122,20151128,1,,Frankfurt Christmas Market Birmingham,Birmingham,1003928
+20160314,20160315,1,,Crufts Dog Show,Birmingham,166333
+20160521,20160528,1,,Birmingham NEC Motor Show,Birmingham,47866
+20160526,20160528,1,,Birmingham Pride,Birmingham,41631
+20160712,20160715,1,,Birmingham International Jazz and Blues Festival,Birmingham,20396
+20160803,20160810,1,,Brindleyplace Canal Festival,Birmingham,38770
+20160925,20160928,1,,Artsfest Birmingham,Birmingham,71006
+20161017,20161024,1,,Birmingham Literature Festival,Birmingham,18155
+20161027,20161028,1,,Birmingham International Marathon,Birmingham,12850
+20161118,20161125,1,,Frankfurt Christmas Market Birmingham,Birmingham,863528
+20100502,20100503,1,,Manchester Half Marathon,Manchester,15892
+20100617,20100620,1,,Parklife Festival Manchester,Manchester,70550
+20100707,20100714,1,,Manchester International Festival,Manchester,108316
+20100708,20100711,1,,Manchester Jazz Festival,Manchester,37039
+20100828,20100828,1,,Manchester Pride,Manchester,74915
+20100926,20100928,1,,Manchester Food and Drink Festival,Manchester,53421
+20101018,20101025,1,,Manchester Literary Festival,Manchester,13967
+20101027,20101028,1,,Manchester Science Festival,Manchester,53012
+20101107,20101114,1,,Manchester International Fireworks Competition,Manchester,26124
+20101122,20101128,1,,Manchester Christmas Markets,Manchester,525943
+20110502,20110503,1,,Manchester Half Marathon,Manchester,13380
+20110627,20110628,1,,Parklife Festival Manchester,Manchester,81048
+20110718,20110721,1,,Manchester Jazz Festival,Manchester,39506
+20110722,20110728,1,,Manchester International Festival,Manchester,118014
+20110804,20110811,1,,Manchester Pride,Manchester,88478
+20110910,20110917,1,,Manchester Food and Drink Festival,Manchester,49076
+20111003,20111010,1,,Manchester Science Festival,Manchester,66139
+20111009,20111016,1,,Manchester Literary Festival,Manchester,13676
+20111108,20111115,1,,Manchester Christmas Markets,Manchester,471873
+20111128,20111128,1,,Manchester International Fireworks Competition,Manchester,23583
+20120516,20120517,1,,Manchester Half Marathon,Manchester,15010
+20120622,20120625,1,,Parklife Festival Manchester,Manchester,72388
+20120714,20120721,1,,Manchester International Festival,Manchester,117439
+20120714,20120717,1,,Manchester Jazz Festival,Manchester,36961
+20120819,20120826,1,,Manchester Pride,Manchester,75127
+20120924,20120928,1,,Manchester Food and Drink Festival,Manchester,55945
+20121012,20121019,1,,Manchester Literary Festival,Manchester,16371
+20121028,20121028,1,,Manchester Science Festival,Manchester,56203
+20121105,20121112,1,,Manchester Christmas Markets,Manchester,520602
+20121116,20121123,1,,Manchester International Fireworks Competition,Manchester,23506
+20130528,20130528,1,,Manchester Half Marathon,Manchester,15112
+20130605,20130608,1,,Parklife Festival Manchester,Manchester,75477
+20130715,20130718,1,,Manchester Jazz Festival,Manchester,37598
+20130728,20130728,1,,Manchester International Festival,Manchester,126597
+20130820,20130827,1,,Manchester Pride,Manchester,71163
+20130918,20130925,1,,Manchester Food and Drink Festival,Manchester,51942
+20131008,20131015,1,,Manchester Literary Festival,Manchester,14530
+20131014,20131021,1,,Manchester Science Festival,Manchester,59793
+20131110,20131117,1,,Manchester Christmas Markets,Manchester,494866
+20131128,20131128,1,,Manchester International Fireworks Competition,Manchester,22304
+20140502,20140503,1,,Manchester Half Marathon,Manchester,16658
+20140604,20140607,1,,Parklife Festival Manchester,Manchester,84654
+20140703,20140706,1,,Manchester Jazz Festival,Manchester,39454
+20140722,20140728,1,,Manchester International Festival,Manchester,124419
+20140803,20140810,1,,Manchester Pride,Manchester,78449
+20140916,20140923,1,,Manchester Food and Drink Festival,Manchester,45857
+20141006,20141013,1,,Manchester Literary Festival,Manchester,14777
+20141007,20141014,1,,Manchester Science Festival,Manchester,65250
+20141121,20141128,1,,Manchester International Fireworks Competition,Manchester,24541
+20141125,20141128,1,,Manchester Christmas Markets,Manchester,552288
+20150503,20150504,1,,Manchester Half Marathon,Manchester,16264
+20150605,20150608,1,,Parklife Festival Manchester,Manchester,75629
+20150721,20150728,1,,Manchester International Festival,Manchester,108434
+20150728,20150728,1,,Manchester Jazz Festival,Manchester,43417
+20150819,20150826,1,,Manchester Pride,Manchester,81252
+20150910,20150917,1,,Manchester Food and Drink Festival,Manchester,46612
+20151002,20151009,1,,Manchester Science Festival,Manchester,55170
+20151018,20151025,1,,Manchester Literary Festival,Manchester,15732
+20151101,20151108,1,,Manchester Christmas Markets,Manchester,494994
+20151109,20151116,1,,Manchester International Fireworks Competition,Manchester,22264
+20160503,20160504,1,,Manchester Half Marathon,Manchester,15342
+20160620,20160623,1,,Parklife Festival Manchester,Manchester,74444
+20160704,20160707,1,,Manchester Jazz Festival,Manchester,35685
+20160713,20160720,1,,Manchester International Festival,Manchester,126572
+20160811,20160818,1,,Manchester Pride,Manchester,88346
+20160902,20160909,1,,Manchester Food and Drink Festival,Manchester,50950
+20161001,20161008,1,,Manchester Science Festival,Manchester,66988
+20161020,20161027,1,,Manchester Literary Festival,Manchester,16741
+20161111,20161118,1,,Manchester International Fireworks Competition,Manchester,26626
+20161119,20161126,1,,Manchester Christmas Markets,Manchester,559531
+20100320,20100327,1,,Oxford Literary Festival,Oxford,26538
+20100506,20100513,1,,May Morning Oxford,Oxford,12558
+20100608,20100611,1,,Cowley Road Carnival,Oxford,16281
+20100626,20100628,1,,Oxfordshire Arts Week,Oxford,28122
+20100728,20100728,1,,Oxford Pride,Oxford,13451
+20100816,20100823,1,,Creation Records Exhibition Oxford,Oxford,5337
+20100917,20100920,1,,Oxford Folk Festival,Oxford,8893
+20100928,20100928,1,,Oxford Beer Festival,Oxford,10098
+20101023,20101024,1,,Oxford Half Marathon,Oxford,4750
+20101116,20101123,1,,Oxford Christmas Market,Oxford,108766
+20110321,20110328,1,,Oxford Literary Festival,Oxford,24652
+20110501,20110508,1,,May Morning Oxford,Oxford,10692
+20110606,20110613,1,,Oxfordshire Arts Week,Oxford,28637
+20110614,20110617,1,,Cowley Road Carnival,Oxford,13357
+20110725,20110728,1,,Oxford Pride,Oxford,16044
+20110809,20110816,1,,Creation Records Exhibition Oxford,Oxford,4806
+20110911,20110914,1,,Oxford Folk Festival,Oxford,8709
+20110920,20110927,1,,Oxford Beer Festival,Oxford,8964
+20111023,20111024,1,,Oxford Half Marathon,Oxford,4728
+20111115,20111122,1,,Oxford Christmas Market,Oxford,100925
+20120302,20120309,1,,Oxford Literary Festival,Oxford,23221
+20120526,20120528,1,,May Morning Oxford,Oxford,10721
+20120601,20120608,1,,Oxfordshire Arts Week,Oxford,30376
+20120624,20120627,1,,Cowley Road Carnival,Oxford,14902
+20120714,20120721,1,,Oxford Pride,Oxford,14423
+20120823,20120828,1,,Creation Records Exhibition Oxford,Oxford,4876
+20120921,20120928,1,,Oxford Beer Festival,Oxford,10442
+20120928,20120928,1,,Oxford Folk Festival,Oxford,8662
+20121027,20121028,1,,Oxford Half Marathon,Oxford,4978
+20121112,20121119,1,,Oxford Christmas Market,Oxford,95978
+20130318,20130325,1,,Oxford Literary Festival,Oxford,22786
+20130512,20130519,1,,May Morning Oxford,Oxford,11639
+20130603,20130610,1,,Oxfordshire Arts Week,Oxford,28017
+20130626,20130628,1,,Cowley Road Carnival,Oxford,14572
+20130726,20130728,1,,Oxford Pride,Oxford,15027
+20130803,20130810,1,,Creation Records Exhibition Oxford,Oxford,5422
+20130904,20130907,1,,Oxford Folk Festival,Oxford,8049
+20130910,20130917,1,,Oxford Beer Festival,Oxford,11193
+20131016,20131017,1,,Oxford Half Marathon,Oxford,4692
+20131125,20131128,1,,Oxford Christmas Market,Oxford,101042
+20140310,20140317,1,,Oxford Literary Festival,Oxford,24628
+20140505,20140512,1,,May Morning Oxford,Oxford,11263
+20140622,20140625,1,,Cowley Road Carnival,Oxford,16052
+20140627,20140628,1,,Oxfordshire Arts Week,Oxford,32973
+20140727,20140728,1,,Oxford Pride,Oxford,13209
+20140828,20140828,1,,Creation Records Exhibition Oxford,Oxford,5209
+20140915,20140918,1,,Oxford Folk Festival,Oxford,7069
+20140924,20140928,1,,Oxford Beer Festival,Oxford,9016
+20141018,20141019,1,,Oxford Half Marathon,Oxford,4573
+20141115,20141122,1,,Oxford Christmas Market,Oxford,110388
+20150323,20150328,1,,Oxford Literary Festival,Oxford,24908
+20150514,20150521,1,,May Morning Oxford,Oxford,12189
+20150615,20150622,1,,Oxfordshire Arts Week,Oxford,33218
+20150621,20150624,1,,Cowley Road Carnival,Oxford,16730
+20150724,20150728,1,,Oxford Pride,Oxford,14274
+20150818,20150825,1,,Creation Records Exhibition Oxford,Oxford,4856
+20150904,20150911,1,,Oxford Beer Festival,Oxford,10624
+20150905,20150908,1,,Oxford Folk Festival,Oxford,7827
+20151007,20151008,1,,Oxford Half Marathon,Oxford,5506
+20151128,20151128,1,,Oxford Christmas Market,Oxford,92527
+20160301,20160308,1,,Oxford Literary Festival,Oxford,27838
+20160526,20160528,1,,May Morning Oxford,Oxford,11078
+20160616,20160619,1,,Cowley Road Carnival,Oxford,16673
+20160621,20160628,1,,Oxfordshire Arts Week,Oxford,32391
+20160719,20160726,1,,Oxford Pride,Oxford,15287
+20160811,20160818,1,,Creation Records Exhibition Oxford,Oxford,5152
+20160921,20160924,1,,Oxford Folk Festival,Oxford,8902
+20160923,20160928,1,,Oxford Beer Festival,Oxford,10894
+20161017,20161018,1,,Oxford Half Marathon,Oxford,5295
+20161123,20161128,1,,Oxford Christmas Market,Oxford,93731
+20100101,20991231,3,http://www.wikidata.org/entity/Q12723354,2010 European Women's Artistic Gymnastics Championships,Birmingham,6500
+20100101,20991231,3,http://www.wikidata.org/entity/Q2093779,2010 European Men's Artistic Gymnastics Championships,Birmingham,7200
+20100421,20100502,3,http://www.wikidata.org/entity/Q2954531,2010 European Artistic Gymnastics Championships,Birmingham,12000
+20110101,20991231,3,http://www.wikidata.org/entity/Q2955685,2011 Trampoline World Championships,Birmingham,5000
+20110826,20991231,3,http://www.wikidata.org/entity/Q3631116,2011 Birmingham Grand Prix,Birmingham,19000
+20120101,20120527,3,http://www.wikidata.org/entity/Q733526,2012 UCI BMX World Championships,Birmingham,22000
+20120812,20991231,3,http://www.wikidata.org/entity/Q2502735,2012 FA Community Shield,Birmingham,78000
+20120826,20991231,3,http://www.wikidata.org/entity/Q9162952,2012 British Grand Prix,Birmingham,20000
+20120912,20120912,3,http://www.wikidata.org/entity/Q124044088,Recent Appointees in Polymer Science 2012,Birmingham,200
+20130630,20991231,3,http://www.wikidata.org/entity/Q14329777,2013 British Grand Prix,Birmingham,20000
+20140824,20991231,3,http://www.wikidata.org/entity/Q16530764,2014 British Grand Prix,Birmingham,20000
+20160605,20991231,3,http://www.wikidata.org/entity/Q24251370,2016 Birmingham Grand Prix,Birmingham,19000
+20160101,20991231,3,http://www.wikidata.org/entity/Q21995530,2016 British Artistic Gymnastics Championships,Liverpool,8000
+20100621,20100704,3,http://www.wikidata.org/entity/Q476638,2010 Wimbledon Championships,London,490000
+20110620,20110703,3,http://www.wikidata.org/entity/Q245073,2011 Wimbledon Championships,London,490000
+20111207,20111207,3,http://www.wikidata.org/entity/Q58819280,4th International SWAT4LS conference,London,400
+20120101,20991231,3,http://www.wikidata.org/entity/Q280865,2012 FINA Diving World Cup,London,8000
+20120101,20991231,3,http://www.wikidata.org/entity/Q284435,gymnastics at the 2012 Summer Olympics — women's artistic team all-around,London,18000
+20120101,20991231,3,http://www.wikidata.org/entity/Q374383,tennis at the 2012 Summer Olympics — men's doubles,London,30000
+20120101,20991231,3,http://www.wikidata.org/entity/Q829370,tennis at the 2012 Summer Olympics — women's singles,London,30000
+20120101,20991231,3,http://www.wikidata.org/entity/Q840683,tennis at the 2012 Summer Olympics — mixed doubles,London,30000
+20120101,20991231,3,http://www.wikidata.org/entity/Q841622,tennis at the 2012 Summer Olympics — women's doubles,London,30000
+20120101,20991231,3,http://www.wikidata.org/entity/Q916174,cycling at the 2012 Summer Olympics — men's road time trial,London,180000
+20120110,20120118,3,http://www.wikidata.org/entity/Q3764536,2012 Gymnastics Olympic Test Event,London,9000
+20120625,20120708,3,http://www.wikidata.org/entity/Q289587,2012 Wimbledon Championships,London,490000
+20120725,20120809,3,http://www.wikidata.org/entity/Q721620,football at the 2012 Summer Olympics — women's tournament,London,70000
+20120726,20120811,3,http://www.wikidata.org/entity/Q47608,football at the 2012 Summer Olympics — men's tournament,London,70000
+20120727,20120811,3,http://www.wikidata.org/entity/Q775427,handball at the 2012 Summer Olympics — women's tournament,London,22000
+20120728,20120805,3,http://www.wikidata.org/entity/Q1140736,badminton at the 2012 Summer Olympics — men's singles,London,15000
+20120728,20120805,3,http://www.wikidata.org/entity/Q1337276,badminton at the 2012 Summer Olympics — men's doubles,London,15000
+20120728,20120804,3,http://www.wikidata.org/entity/Q1345726,badminton at the 2012 Summer Olympics — women's singles,London,15000
+20120728,20120803,3,http://www.wikidata.org/entity/Q1414502,badminton at the 2012 Summer Olympics — mixed doubles,London,15000
+20120728,20120804,3,http://www.wikidata.org/entity/Q1464256,badminton at the 2012 Summer Olympics — women's doubles,London,15000
+20120728,20120811,3,http://www.wikidata.org/entity/Q265038,volleyball at the 2012 Summer Olympics — women's tournament,London,25000
+20120728,20120805,3,http://www.wikidata.org/entity/Q30822,tennis at the 2012 Summer Olympics,London,30000
+20120728,20120812,3,http://www.wikidata.org/entity/Q426154,handball at the 2012 Summer Olympics — men's tournament,London,22000
+20120728,20120805,3,http://www.wikidata.org/entity/Q581788,tennis at the 2012 Summer Olympics — men's singles,London,30000
+20120728,20120811,3,http://www.wikidata.org/entity/Q655463,basketball at the 2012 Summer Olympics — women's tournament,London,35000
+20120728,20991231,3,http://www.wikidata.org/entity/Q754412,cycling at the 2012 Summer Olympics — men's road race,London,180000
+20120729,20120812,3,http://www.wikidata.org/entity/Q749036,basketball at the 2012 Summer Olympics — men's tournament,London,35000
+20120729,20991231,3,http://www.wikidata.org/entity/Q843287,cycling at the 2012 Summer Olympics — women's road race,London,180000
+20120729,20120812,3,http://www.wikidata.org/entity/Q843441,volleyball at the 2012 Summer Olympics — men's tournament,London,25000
+20120729,20120812,3,http://www.wikidata.org/entity/Q848659,water polo at the 2012 Summer Olympics — men's tournament,London,12000
+20120730,20120809,3,http://www.wikidata.org/entity/Q843846,water polo at the 2012 Summer Olympics — women's tournament,London,12000
+20120801,20991231,3,http://www.wikidata.org/entity/Q939000,cycling at the 2012 Summer Olympics — women's road time trial,London,180000
+20120805,20991231,3,http://www.wikidata.org/entity/Q2000988,athletics at the 2012 Summer Olympics — women's marathon,London,80000
+20120809,20991231,3,http://www.wikidata.org/entity/Q1064845,swimming at the 2012 Summer Olympics — women's marathon 10 kilometre,London,12000
+20120810,20991231,3,http://www.wikidata.org/entity/Q2268451,swimming at the 2012 Summer Olympics — men's marathon 10 kilometre,London,12000
+20120812,20991231,3,http://www.wikidata.org/entity/Q1798983,athletics at the 2012 Summer Olympics — men's marathon,London,80000
+20130608,20130616,3,http://www.wikidata.org/entity/Q13415317,2013 Aegon Championships,London,97000
+20130624,20130707,3,http://www.wikidata.org/entity/Q559726,2013 Wimbledon Championships,London,490000
+20140609,20140615,3,http://www.wikidata.org/entity/Q16969058,2014 Aegon Championships,London,97000
+20140623,20140706,3,http://www.wikidata.org/entity/Q15854765,2014 Wimbledon Championships,London,490000
+20150606,20150606,2,http://www.wikidata.org/entity/Q124540980,"Joly Braga Santos Piano Concerto Op. 52, London, 6 June 2015",London,1800
+20150615,20150621,3,http://www.wikidata.org/entity/Q19870230,2015 Aegon Championships,London,97000
+20150629,20150712,3,http://www.wikidata.org/entity/Q18410121,2015 Wimbledon Championships,London,490000
+20150812,20991231,3,http://www.wikidata.org/entity/Q20405792,2015 Saudi Super Cup,London,12000
+20160101,20160101,2,http://www.wikidata.org/entity/Q124030508,Muse at The O2 Arena 2016,London,20000
+20160209,20160515,3,http://www.wikidata.org/entity/Q25385902,ESL Pro League Season 3,London,14500
+20160209,20160515,3,http://www.wikidata.org/entity/Q48837874,ESL Pro League Season 2,London,14500
+20160613,20160619,3,http://www.wikidata.org/entity/Q24262960,2016 Aegon Championships,London,97000
+20160627,20160710,3,http://www.wikidata.org/entity/Q20127632,2016 Wimbledon Championships,London,490000
+20100715,20100724,3,http://www.wikidata.org/entity/Q4618936,2010 World Lacrosse Championship,Manchester,8500
+20110101,20991231,3,http://www.wikidata.org/entity/Q42305826,QED,Manchester,1200
+20120622,20120625,3,http://www.wikidata.org/entity/Q4707938,Alan Turing Centenary Conference,Manchester,800
+20130101,20991231,3,http://www.wikidata.org/entity/Q20806161,2013 World Taekwondo Grand Prix,Manchester,4500
+20120101,20991231,3,http://www.wikidata.org/entity/Q24883365,2012 IQA Summer Games,Oxford,3000
+20150418,20150419,3,http://www.wikidata.org/entity/Q19689766,European Quidditch Cup 2015,Oxford,2500

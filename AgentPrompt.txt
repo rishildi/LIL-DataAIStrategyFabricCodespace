@@ -1,0 +1,10 @@
+Using the ldi-process-skills MCP server, create a fabric process workflow agent in the outputs folder for the following process:
+1.    create two workspaces in Microsoft Fabric: LANDON_AGENT_HUB and LANDON_AGENT_SPOKE
+2.    create one non schema enabled lakehouse (LANDON_FINANCE_BRONZE) in the hub workspace, and two
+schema enabled lakehouses in the spoke workspace (LANDON_FINANCE_SILVER and LANDON_FINANCE_GOLD)
+3.    Upload the CSV and PDF files in the Data/CSV/Bronze and Data/Booking PDFs folders into the Files section of the bronze lakehouse and convert them into delta tables in the Tables section.
+4.    Create shortcuts to the bronze delta lakehouse/tables in the LANDON_FINANCE_SILVER lakehouse (in a "Bronze" schema) and create a new schema in the LANDON_FINANCE_SILVER lakehouse called "Silver"
+5.    Generate Materialised Lake view scripts to create silver delta tables in this schema
+6.    Create 3 new schemas in the gold lakehouse - Bronze, Silver and Gold. The Bronze and silver lakehouses should contain shortcuts to the respective lakehouses/schemas.
+7.    Create materialised lakeview scripts to generate Gold layer delta tables in the Gold schema of the lakehouse based on the bronze/silver tables
+8. Create test/production versions of the hub and spoke workspaces and create a deployment pipeline to move items between them
