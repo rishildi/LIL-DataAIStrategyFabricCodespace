@@ -1,0 +1,8 @@
+Use the ldi-pbi-developer mcp server to create a power bi workflow agent that performs the following steps:
+1.	Create a scoping template based on the gold data (Data/Gold) CSV files and the persona requirements in the requirements folder
+2.	Create a measure logic definition markdown document that outlines the logic required in the semantic model in order to provide the required insights
+3.	Create a scaffold PBIP project that connects to the CSV files in the gold folder path (this will actually be a path on my machine which I’ll provide) using a Power Query parameter (no hardcoding of folder paths!)
+4.	Once approved copy the PBIP in the relevant step folder. Modify this PBIP to add in the measures as per the measure logic definition using the Power BI modelling MCP server/Power BI Agentic development CLI. All measures should be in a new table (__Measures), with clear non-technical descriptions and organised into folders. Only the minimum number of measures to produce the insights should be required. I’ll download the PBIP and open/check it before proceeding.
+5.	Produce a storyboard (PPT) that outlines the visuals/interactions required in the Power BI report to provide the required insights. I’ll confirm and suggest any changes before proceeding
+6.	Create a theme file with the Landon hotel corporate design colours from www.landonhotel.com
+7.	Copy the PBIP from Step 4 into the step 6 folder.  Modify this PBIP to add the theme and produce the visuals and interactions. Do one page at a time and let me download/check it before proceeding to the next one. (We can keep each one in a separate folder in case we need to roll back)

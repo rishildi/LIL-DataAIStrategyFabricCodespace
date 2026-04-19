@@ -1,0 +1,29 @@
+{
+  "name": "LDI Learner Workspace",
+  "image": "ghcr.io/rishildi/ldi-mcp:latest",
+
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {},
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "specstory.specstory-vscode"
+      ],
+      "settings": {
+        "chat.mcp.discovery.enabled": true,
+        "python.defaultInterpreterPath": "/usr/bin/python3"
+      }
+    }
+  },
+
+  "postCreateCommand": "fab config set encryption_fallback_enabled true 2>/dev/null || true && git clone https://github.com/data-goblin/power-bi-agentic-development.git .pbi-plugins 2>/dev/null || true && echo '' && echo '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━' && echo '  ✅ LDI Learner Workspace ready' && echo '' && echo '  MCP servers:                /opt/ldi-mcp/' && echo '  Fabric CLI:                 encryption fallback enabled' && echo '  PBI Agentic Dev Skills/CLI:  .pbi-plugins/' && echo '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'",
+
+  "remoteUser": "vscode"
+}

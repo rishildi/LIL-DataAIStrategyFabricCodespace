@@ -1,0 +1,13 @@
+ExpenseCategoryKey,ExpenseCategory
+-1,Unknown
+1,BuildingMaintenance
+2,ComputerServices
+3,ContractLabor
+4,EquipmentMaintenance
+5,ExpensedEquipment
+6,HealthInsurance
+7,OtherOperatingExpenses
+8,Payroll
+9,Supplies
+10,TaxesAndLicenseFees
+11,Utilities

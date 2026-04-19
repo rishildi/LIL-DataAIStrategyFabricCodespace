@@ -1,0 +1,663 @@
+WikidataURI,EventName,StartDate,EndDate,EventType,City,Attendance
+,London Fashion Week,2010-02-03 00:00:00.000,2010-02-10 00:00:00.000,Fictitious,London,80999
+,London Book Fair,2010-03-09 00:00:00.000,2010-03-16 00:00:00.000,Fictitious,London,22397
+,London Marathon,2010-04-20 00:00:00.000,2010-04-21 00:00:00.000,Fictitious,London,664776
+,Chelsea Flower Show,2010-05-08 00:00:00.000,2010-05-15 00:00:00.000,Fictitious,London,143024
+,London Pride,2010-06-24 00:00:00.000,2010-06-28 00:00:00.000,Fictitious,London,306090
+,RHS Hampton Court Palace Garden Festival,2010-07-09 00:00:00.000,2010-07-16 00:00:00.000,Fictitious,London,120797
+,Notting Hill Carnival,2010-08-13 00:00:00.000,2010-08-16 00:00:00.000,Fictitious,London,946713
+,Thames Festival,2010-09-08 00:00:00.000,2010-09-15 00:00:00.000,Fictitious,London,82729
+,London Film Festival,2010-10-09 00:00:00.000,2010-10-16 00:00:00.000,Fictitious,London,146770
+,London Jazz Festival,2010-11-04 00:00:00.000,2010-11-07 00:00:00.000,Fictitious,London,39870
+,Christmas Lights Switch-On - Oxford Street,2010-11-11 00:00:00.000,2010-11-18 00:00:00.000,Fictitious,London,181354
+,Lord Mayor's Show,2010-11-12 00:00:00.000,2010-11-19 00:00:00.000,Fictitious,London,591086
+,Guy Fawkes Night - Victoria Embankment,2010-11-14 00:00:00.000,2010-11-21 00:00:00.000,Fictitious,London,51156
+,London International Horse Show,2010-12-03 00:00:00.000,2010-12-04 00:00:00.000,Fictitious,London,98757
+,New Year's Eve Fireworks,2010-12-17 00:00:00.000,2010-12-24 00:00:00.000,Fictitious,London,102615
+,London Fashion Week,2011-02-27 00:00:00.000,2011-02-28 00:00:00.000,Fictitious,London,82469
+,London Book Fair,2011-03-19 00:00:00.000,2011-03-26 00:00:00.000,Fictitious,London,27258
+,London Marathon,2011-04-07 00:00:00.000,2011-04-08 00:00:00.000,Fictitious,London,788883
+,Chelsea Flower Show,2011-05-19 00:00:00.000,2011-05-26 00:00:00.000,Fictitious,London,177162
+,London Pride,2011-06-19 00:00:00.000,2011-06-26 00:00:00.000,Fictitious,London,292756
+,RHS Hampton Court Palace Garden Festival,2011-07-20 00:00:00.000,2011-07-27 00:00:00.000,Fictitious,London,117786
+,Notting Hill Carnival,2011-08-21 00:00:00.000,2011-08-24 00:00:00.000,Fictitious,London,1080186
+,Thames Festival,2011-09-13 00:00:00.000,2011-09-20 00:00:00.000,Fictitious,London,85030
+,London Film Festival,2011-10-25 00:00:00.000,2011-10-28 00:00:00.000,Fictitious,London,153725
+,London Jazz Festival,2011-11-09 00:00:00.000,2011-11-12 00:00:00.000,Fictitious,London,42244
+,Guy Fawkes Night - Victoria Embankment,2011-11-13 00:00:00.000,2011-11-20 00:00:00.000,Fictitious,London,48579
+,Christmas Lights Switch-On - Oxford Street,2011-11-14 00:00:00.000,2011-11-21 00:00:00.000,Fictitious,London,183591
+,Lord Mayor's Show,2011-11-17 00:00:00.000,2011-11-24 00:00:00.000,Fictitious,London,593014
+,New Year's Eve Fireworks,2011-12-05 00:00:00.000,2011-12-12 00:00:00.000,Fictitious,London,96973
+,London International Horse Show,2011-12-28 00:00:00.000,2011-12-28 00:00:00.000,Fictitious,London,86337
+,London Fashion Week,2012-02-28 00:00:00.000,2012-02-28 00:00:00.000,Fictitious,London,77343
+,London Book Fair,2012-03-11 00:00:00.000,2012-03-18 00:00:00.000,Fictitious,London,23275
+,London Marathon,2012-04-23 00:00:00.000,2012-04-24 00:00:00.000,Fictitious,London,758089
+,Chelsea Flower Show,2012-05-03 00:00:00.000,2012-05-10 00:00:00.000,Fictitious,London,168905
+,London Pride,2012-06-08 00:00:00.000,2012-06-15 00:00:00.000,Fictitious,London,335807
+,Notting Hill Carnival,2012-08-06 00:00:00.000,2012-08-09 00:00:00.000,Fictitious,London,968843
+,Thames Festival,2012-09-21 00:00:00.000,2012-09-28 00:00:00.000,Fictitious,London,94064
+,London Film Festival,2012-10-03 00:00:00.000,2012-10-10 00:00:00.000,Fictitious,London,155389
+,Christmas Lights Switch-On - Oxford Street,2012-11-01 00:00:00.000,2012-11-08 00:00:00.000,Fictitious,London,221783
+,London Jazz Festival,2012-11-05 00:00:00.000,2012-11-08 00:00:00.000,Fictitious,London,47553
+,Lord Mayor's Show,2012-11-08 00:00:00.000,2012-11-15 00:00:00.000,Fictitious,London,560356
+,Guy Fawkes Night - Victoria Embankment,2012-11-15 00:00:00.000,2012-11-22 00:00:00.000,Fictitious,London,50349
+,New Year's Eve Fireworks,2012-12-06 00:00:00.000,2012-12-13 00:00:00.000,Fictitious,London,100945
+,London International Horse Show,2012-12-17 00:00:00.000,2012-12-18 00:00:00.000,Fictitious,London,84340
+,London Fashion Week,2013-02-07 00:00:00.000,2013-02-14 00:00:00.000,Fictitious,London,83927
+,London Book Fair,2013-03-16 00:00:00.000,2013-03-23 00:00:00.000,Fictitious,London,24373
+,London Marathon,2013-04-08 00:00:00.000,2013-04-09 00:00:00.000,Fictitious,London,740857
+,Chelsea Flower Show,2013-05-27 00:00:00.000,2013-05-28 00:00:00.000,Fictitious,London,143457
+,London Pride,2013-06-05 00:00:00.000,2013-06-12 00:00:00.000,Fictitious,London,300685
+,RHS Hampton Court Palace Garden Festival,2013-07-07 00:00:00.000,2013-07-14 00:00:00.000,Fictitious,London,132352
+,Notting Hill Carnival,2013-08-07 00:00:00.000,2013-08-10 00:00:00.000,Fictitious,London,1040842
+,Thames Festival,2013-09-08 00:00:00.000,2013-09-15 00:00:00.000,Fictitious,London,93987
+,London Film Festival,2013-10-12 00:00:00.000,2013-10-19 00:00:00.000,Fictitious,London,173343
+,Lord Mayor's Show,2013-11-11 00:00:00.000,2013-11-18 00:00:00.000,Fictitious,London,531028
+,Guy Fawkes Night - Victoria Embankment,2013-11-18 00:00:00.000,2013-11-25 00:00:00.000,Fictitious,London,54329
+,London Jazz Festival,2013-11-22 00:00:00.000,2013-11-25 00:00:00.000,Fictitious,London,47599
+,Christmas Lights Switch-On - Oxford Street,2013-11-24 00:00:00.000,2013-11-28 00:00:00.000,Fictitious,London,188642
+,London International Horse Show,2013-12-22 00:00:00.000,2013-12-23 00:00:00.000,Fictitious,London,89684
+,New Year's Eve Fireworks,2013-12-25 00:00:00.000,2013-12-28 00:00:00.000,Fictitious,London,110138
+,London Fashion Week,2014-02-02 00:00:00.000,2014-02-09 00:00:00.000,Fictitious,London,83096
+,London Book Fair,2014-03-21 00:00:00.000,2014-03-28 00:00:00.000,Fictitious,London,24753
+,London Marathon,2014-04-09 00:00:00.000,2014-04-10 00:00:00.000,Fictitious,London,805697
+,Chelsea Flower Show,2014-05-25 00:00:00.000,2014-05-28 00:00:00.000,Fictitious,London,161255
+,London Pride,2014-06-03 00:00:00.000,2014-06-10 00:00:00.000,Fictitious,London,318416
+,RHS Hampton Court Palace Garden Festival,2014-07-25 00:00:00.000,2014-07-28 00:00:00.000,Fictitious,London,126622
+,Notting Hill Carnival,2014-08-23 00:00:00.000,2014-08-26 00:00:00.000,Fictitious,London,1104797
+,Thames Festival,2014-09-27 00:00:00.000,2014-09-28 00:00:00.000,Fictitious,London,95795
+,London Film Festival,2014-10-20 00:00:00.000,2014-10-27 00:00:00.000,Fictitious,London,150957
+,Guy Fawkes Night - Victoria Embankment,2014-11-01 00:00:00.000,2014-11-08 00:00:00.000,Fictitious,London,52163
+,Christmas Lights Switch-On - Oxford Street,2014-11-17 00:00:00.000,2014-11-24 00:00:00.000,Fictitious,London,212574
+,London Jazz Festival,2014-11-18 00:00:00.000,2014-11-21 00:00:00.000,Fictitious,London,40538
+,Lord Mayor's Show,2014-11-18 00:00:00.000,2014-11-25 00:00:00.000,Fictitious,London,561136
+,New Year's Eve Fireworks,2014-12-01 00:00:00.000,2014-12-08 00:00:00.000,Fictitious,London,102374
+,London International Horse Show,2014-12-18 00:00:00.000,2014-12-19 00:00:00.000,Fictitious,London,82057
+,London Fashion Week,2015-02-25 00:00:00.000,2015-02-28 00:00:00.000,Fictitious,London,75956
+,London Book Fair,2015-03-09 00:00:00.000,2015-03-16 00:00:00.000,Fictitious,London,22837
+,London Marathon,2015-04-01 00:00:00.000,2015-04-02 00:00:00.000,Fictitious,London,796585
+,Chelsea Flower Show,2015-05-05 00:00:00.000,2015-05-12 00:00:00.000,Fictitious,London,145730
+,London Pride,2015-06-28 00:00:00.000,2015-06-28 00:00:00.000,Fictitious,London,271894
+,RHS Hampton Court Palace Garden Festival,2015-07-07 00:00:00.000,2015-07-14 00:00:00.000,Fictitious,London,126132
+,Notting Hill Carnival,2015-08-21 00:00:00.000,2015-08-24 00:00:00.000,Fictitious,London,897136
+,Thames Festival,2015-09-02 00:00:00.000,2015-09-09 00:00:00.000,Fictitious,London,84147
+,London Film Festival,2015-10-02 00:00:00.000,2015-10-09 00:00:00.000,Fictitious,London,168821
+,Guy Fawkes Night - Victoria Embankment,2015-11-04 00:00:00.000,2015-11-11 00:00:00.000,Fictitious,London,52180
+,Lord Mayor's Show,2015-11-08 00:00:00.000,2015-11-15 00:00:00.000,Fictitious,London,529035
+,London Jazz Festival,2015-11-14 00:00:00.000,2015-11-17 00:00:00.000,Fictitious,London,39943
+,Christmas Lights Switch-On - Oxford Street,2015-11-17 00:00:00.000,2015-11-24 00:00:00.000,Fictitious,London,219806
+,New Year's Eve Fireworks,2015-12-16 00:00:00.000,2015-12-23 00:00:00.000,Fictitious,London,88467
+,London International Horse Show,2015-12-19 00:00:00.000,2015-12-20 00:00:00.000,Fictitious,London,91646
+,London Fashion Week,2016-02-03 00:00:00.000,2016-02-10 00:00:00.000,Fictitious,London,86822
+,London Book Fair,2016-03-24 00:00:00.000,2016-03-28 00:00:00.000,Fictitious,London,25368
+,London Marathon,2016-04-06 00:00:00.000,2016-04-07 00:00:00.000,Fictitious,London,785665
+,Chelsea Flower Show,2016-05-16 00:00:00.000,2016-05-23 00:00:00.000,Fictitious,London,177158
+,London Pride,2016-06-21 00:00:00.000,2016-06-28 00:00:00.000,Fictitious,London,275518
+,RHS Hampton Court Palace Garden Festival,2016-07-13 00:00:00.000,2016-07-20 00:00:00.000,Fictitious,London,134260
+,Notting Hill Carnival,2016-08-21 00:00:00.000,2016-08-24 00:00:00.000,Fictitious,London,921073
+,Thames Festival,2016-09-02 00:00:00.000,2016-09-09 00:00:00.000,Fictitious,London,96588
+,London Film Festival,2016-10-18 00:00:00.000,2016-10-25 00:00:00.000,Fictitious,London,145593
+,London Jazz Festival,2016-11-03 00:00:00.000,2016-11-06 00:00:00.000,Fictitious,London,41961
+,Guy Fawkes Night - Victoria Embankment,2016-11-18 00:00:00.000,2016-11-25 00:00:00.000,Fictitious,London,53010
+,Lord Mayor's Show,2016-11-23 00:00:00.000,2016-11-28 00:00:00.000,Fictitious,London,618878
+,Christmas Lights Switch-On - Oxford Street,2016-11-28 00:00:00.000,2016-11-28 00:00:00.000,Fictitious,London,206014
+,London International Horse Show,2016-12-08 00:00:00.000,2016-12-09 00:00:00.000,Fictitious,London,96147
+,New Year's Eve Fireworks,2016-12-12 00:00:00.000,2016-12-19 00:00:00.000,Fictitious,London,109089
+,Tour de Yorkshire,2010-04-01 00:00:00.000,2010-04-02 00:00:00.000,Fictitious,Leeds,180029
+,Leeds 10K,2010-05-09 00:00:00.000,2010-05-10 00:00:00.000,Fictitious,Leeds,8643
+,Leeds Half Marathon,2010-05-13 00:00:00.000,2010-05-14 00:00:00.000,Fictitious,Leeds,10985
+,Reading Festival Leeds,2010-08-01 00:00:00.000,2010-08-04 00:00:00.000,Fictitious,Leeds,94031
+,Leeds West Indian Carnival,2010-08-08 00:00:00.000,2010-08-11 00:00:00.000,Fictitious,Leeds,94590
+,Leeds Festival,2010-08-15 00:00:00.000,2010-08-18 00:00:00.000,Fictitious,Leeds,93793
+,Leeds Pride,2010-08-18 00:00:00.000,2010-08-25 00:00:00.000,Fictitious,Leeds,32893
+,Leeds Food and Drink Festival,2010-09-14 00:00:00.000,2010-09-21 00:00:00.000,Fictitious,Leeds,24445
+,Light Night Leeds,2010-10-14 00:00:00.000,2010-10-21 00:00:00.000,Fictitious,Leeds,64760
+,Leeds Christmas Markets,2010-11-14 00:00:00.000,2010-11-21 00:00:00.000,Fictitious,Leeds,249138
+,Leeds International Film Festival,2010-11-22 00:00:00.000,2010-11-28 00:00:00.000,Fictitious,Leeds,28635
+,Tour de Yorkshire,2011-04-14 00:00:00.000,2011-04-15 00:00:00.000,Fictitious,Leeds,182513
+,Leeds Half Marathon,2011-05-08 00:00:00.000,2011-05-09 00:00:00.000,Fictitious,Leeds,10069
+,Leeds 10K,2011-05-16 00:00:00.000,2011-05-17 00:00:00.000,Fictitious,Leeds,7077
+,Leeds West Indian Carnival,2011-08-03 00:00:00.000,2011-08-06 00:00:00.000,Fictitious,Leeds,105125
+,Reading Festival Leeds,2011-08-10 00:00:00.000,2011-08-13 00:00:00.000,Fictitious,Leeds,90170
+,Leeds Festival,2011-08-17 00:00:00.000,2011-08-20 00:00:00.000,Fictitious,Leeds,89420
+,Leeds Pride,2011-08-28 00:00:00.000,2011-08-28 00:00:00.000,Fictitious,Leeds,31819
+,Leeds Food and Drink Festival,2011-09-18 00:00:00.000,2011-09-25 00:00:00.000,Fictitious,Leeds,24795
+,Light Night Leeds,2011-10-18 00:00:00.000,2011-10-25 00:00:00.000,Fictitious,Leeds,59221
+,Leeds Christmas Markets,2011-11-13 00:00:00.000,2011-11-20 00:00:00.000,Fictitious,Leeds,240167
+,Leeds International Film Festival,2011-11-26 00:00:00.000,2011-11-28 00:00:00.000,Fictitious,Leeds,27833
+,Tour de Yorkshire,2012-04-15 00:00:00.000,2012-04-16 00:00:00.000,Fictitious,Leeds,184722
+,Leeds 10K,2012-05-18 00:00:00.000,2012-05-19 00:00:00.000,Fictitious,Leeds,7140
+,Leeds Half Marathon,2012-05-23 00:00:00.000,2012-05-24 00:00:00.000,Fictitious,Leeds,9694
+,Leeds Pride,2012-08-05 00:00:00.000,2012-08-12 00:00:00.000,Fictitious,Leeds,37531
+,Leeds West Indian Carnival,2012-08-08 00:00:00.000,2012-08-11 00:00:00.000,Fictitious,Leeds,94521
+,Leeds Festival,2012-08-26 00:00:00.000,2012-08-28 00:00:00.000,Fictitious,Leeds,95096
+,Reading Festival Leeds,2012-08-28 00:00:00.000,2012-08-28 00:00:00.000,Fictitious,Leeds,92989
+,Leeds Food and Drink Festival,2012-09-02 00:00:00.000,2012-09-09 00:00:00.000,Fictitious,Leeds,23241
+,Light Night Leeds,2012-10-06 00:00:00.000,2012-10-13 00:00:00.000,Fictitious,Leeds,63508
+,Leeds International Film Festival,2012-11-01 00:00:00.000,2012-11-08 00:00:00.000,Fictitious,Leeds,26732
+,Leeds Christmas Markets,2012-11-22 00:00:00.000,2012-11-28 00:00:00.000,Fictitious,Leeds,267888
+,Tour de Yorkshire,2013-04-09 00:00:00.000,2013-04-10 00:00:00.000,Fictitious,Leeds,194196
+,Leeds 10K,2013-05-12 00:00:00.000,2013-05-13 00:00:00.000,Fictitious,Leeds,7470
+,Leeds Half Marathon,2013-05-25 00:00:00.000,2013-05-26 00:00:00.000,Fictitious,Leeds,11951
+,Leeds West Indian Carnival,2013-08-11 00:00:00.000,2013-08-14 00:00:00.000,Fictitious,Leeds,109432
+,Leeds Festival,2013-08-22 00:00:00.000,2013-08-25 00:00:00.000,Fictitious,Leeds,81031
+,Leeds Pride,2013-08-22 00:00:00.000,2013-08-28 00:00:00.000,Fictitious,Leeds,35261
+,Reading Festival Leeds,2013-08-27 00:00:00.000,2013-08-28 00:00:00.000,Fictitious,Leeds,83348
+,Leeds Food and Drink Festival,2013-09-14 00:00:00.000,2013-09-21 00:00:00.000,Fictitious,Leeds,24336
+,Light Night Leeds,2013-10-16 00:00:00.000,2013-10-23 00:00:00.000,Fictitious,Leeds,59281
+,Leeds International Film Festival,2013-11-16 00:00:00.000,2013-11-23 00:00:00.000,Fictitious,Leeds,30801
+,Leeds Christmas Markets,2013-11-24 00:00:00.000,2013-11-28 00:00:00.000,Fictitious,Leeds,229902
+,Tour de Yorkshire,2014-04-07 00:00:00.000,2014-04-08 00:00:00.000,Fictitious,Leeds,197825
+,Leeds 10K,2014-05-03 00:00:00.000,2014-05-04 00:00:00.000,Fictitious,Leeds,8539
+,Leeds Half Marathon,2014-05-04 00:00:00.000,2014-05-05 00:00:00.000,Fictitious,Leeds,11735
+,Leeds West Indian Carnival,2014-08-03 00:00:00.000,2014-08-06 00:00:00.000,Fictitious,Leeds,91320
+,Leeds Festival,2014-08-17 00:00:00.000,2014-08-20 00:00:00.000,Fictitious,Leeds,93539
+,Leeds Pride,2014-08-18 00:00:00.000,2014-08-25 00:00:00.000,Fictitious,Leeds,35801
+,Reading Festival Leeds,2014-08-24 00:00:00.000,2014-08-27 00:00:00.000,Fictitious,Leeds,89786
+,Leeds Food and Drink Festival,2014-09-25 00:00:00.000,2014-09-28 00:00:00.000,Fictitious,Leeds,25504
+,Light Night Leeds,2014-10-25 00:00:00.000,2014-10-28 00:00:00.000,Fictitious,Leeds,56360
+,Leeds Christmas Markets,2014-11-15 00:00:00.000,2014-11-22 00:00:00.000,Fictitious,Leeds,275172
+,Leeds International Film Festival,2014-11-25 00:00:00.000,2014-11-28 00:00:00.000,Fictitious,Leeds,26924
+,Tour de Yorkshire,2015-04-11 00:00:00.000,2015-04-12 00:00:00.000,Fictitious,Leeds,212539
+,Leeds Half Marathon,2015-05-08 00:00:00.000,2015-05-09 00:00:00.000,Fictitious,Leeds,10144
+,Leeds 10K,2015-05-21 00:00:00.000,2015-05-22 00:00:00.000,Fictitious,Leeds,7117
+,Leeds West Indian Carnival,2015-08-08 00:00:00.000,2015-08-11 00:00:00.000,Fictitious,Leeds,97192
+,Leeds Festival,2015-08-20 00:00:00.000,2015-08-23 00:00:00.000,Fictitious,Leeds,86440
+,Leeds Pride,2015-08-25 00:00:00.000,2015-08-28 00:00:00.000,Fictitious,Leeds,38287
+,Reading Festival Leeds,2015-08-26 00:00:00.000,2015-08-28 00:00:00.000,Fictitious,Leeds,87106
+,Leeds Food and Drink Festival,2015-09-23 00:00:00.000,2015-09-28 00:00:00.000,Fictitious,Leeds,22117
+,Light Night Leeds,2015-10-21 00:00:00.000,2015-10-28 00:00:00.000,Fictitious,Leeds,56793
+,Leeds International Film Festival,2015-11-14 00:00:00.000,2015-11-21 00:00:00.000,Fictitious,Leeds,32780
+,Leeds Christmas Markets,2015-11-20 00:00:00.000,2015-11-27 00:00:00.000,Fictitious,Leeds,252047
+,Tour de Yorkshire,2016-04-13 00:00:00.000,2016-04-14 00:00:00.000,Fictitious,Leeds,189356
+,Leeds 10K,2016-05-01 00:00:00.000,2016-05-02 00:00:00.000,Fictitious,Leeds,8863
+,Leeds Half Marathon,2016-05-23 00:00:00.000,2016-05-24 00:00:00.000,Fictitious,Leeds,11047
+,Leeds West Indian Carnival,2016-08-05 00:00:00.000,2016-08-08 00:00:00.000,Fictitious,Leeds,104954
+,Reading Festival Leeds,2016-08-08 00:00:00.000,2016-08-11 00:00:00.000,Fictitious,Leeds,84759
+,Leeds Pride,2016-08-20 00:00:00.000,2016-08-27 00:00:00.000,Fictitious,Leeds,37646
+,Leeds Festival,2016-08-27 00:00:00.000,2016-08-28 00:00:00.000,Fictitious,Leeds,99763
+,Leeds Food and Drink Festival,2016-09-25 00:00:00.000,2016-09-28 00:00:00.000,Fictitious,Leeds,25454
+,Light Night Leeds,2016-10-25 00:00:00.000,2016-10-28 00:00:00.000,Fictitious,Leeds,60306
+,Leeds Christmas Markets,2016-11-13 00:00:00.000,2016-11-20 00:00:00.000,Fictitious,Leeds,255513
+,Leeds International Film Festival,2016-11-19 00:00:00.000,2016-11-26 00:00:00.000,Fictitious,Leeds,27799
+,Brighton Half Marathon,2010-02-23 00:00:00.000,2010-02-24 00:00:00.000,Fictitious,Brighton,6547
+,Brighton Marathon,2010-04-12 00:00:00.000,2010-04-13 00:00:00.000,Fictitious,Brighton,10758
+,Great Escape Festival Brighton,2010-05-23 00:00:00.000,2010-05-26 00:00:00.000,Fictitious,Brighton,32380
+,Brighton Festival,2010-05-27 00:00:00.000,2010-05-28 00:00:00.000,Fictitious,Brighton,398201
+,Brighton Pride,2010-08-23 00:00:00.000,2010-08-28 00:00:00.000,Fictitious,Brighton,145198
+,Brighton Food and Drink Festival,2010-09-17 00:00:00.000,2010-09-24 00:00:00.000,Fictitious,Brighton,38909
+,Digital Brighton,2010-11-03 00:00:00.000,2010-11-10 00:00:00.000,Fictitious,Brighton,9506
+,Brighton Christmas Market,2010-11-10 00:00:00.000,2010-11-17 00:00:00.000,Fictitious,Brighton,141050
+,Burning the Clocks Brighton,2010-12-15 00:00:00.000,2010-12-22 00:00:00.000,Fictitious,Brighton,18770
+,Snowball Music Festival Brighton,2010-12-20 00:00:00.000,2010-12-23 00:00:00.000,Fictitious,Brighton,7583
+,Brighton Half Marathon,2011-02-18 00:00:00.000,2011-02-19 00:00:00.000,Fictitious,Brighton,5294
+,Brighton Marathon,2011-04-21 00:00:00.000,2011-04-22 00:00:00.000,Fictitious,Brighton,11542
+,Brighton Festival,2011-05-05 00:00:00.000,2011-05-12 00:00:00.000,Fictitious,Brighton,421762
+,Great Escape Festival Brighton,2011-05-08 00:00:00.000,2011-05-11 00:00:00.000,Fictitious,Brighton,27133
+,Brighton Pride,2011-08-27 00:00:00.000,2011-08-28 00:00:00.000,Fictitious,Brighton,147088
+,Brighton Food and Drink Festival,2011-09-09 00:00:00.000,2011-09-16 00:00:00.000,Fictitious,Brighton,35973
+,Brighton Christmas Market,2011-11-04 00:00:00.000,2011-11-11 00:00:00.000,Fictitious,Brighton,157966
+,Digital Brighton,2011-11-13 00:00:00.000,2011-11-20 00:00:00.000,Fictitious,Brighton,10460
+,Snowball Music Festival Brighton,2011-12-04 00:00:00.000,2011-12-07 00:00:00.000,Fictitious,Brighton,8638
+,Burning the Clocks Brighton,2011-12-15 00:00:00.000,2011-12-22 00:00:00.000,Fictitious,Brighton,20335
+,Brighton Half Marathon,2012-02-07 00:00:00.000,2012-02-08 00:00:00.000,Fictitious,Brighton,5403
+,Brighton Marathon,2012-04-28 00:00:00.000,2012-04-28 00:00:00.000,Fictitious,Brighton,11769
+,Brighton Festival,2012-05-16 00:00:00.000,2012-05-23 00:00:00.000,Fictitious,Brighton,468301
+,Great Escape Festival Brighton,2012-05-25 00:00:00.000,2012-05-28 00:00:00.000,Fictitious,Brighton,28571
+,Brighton Pride,2012-08-10 00:00:00.000,2012-08-17 00:00:00.000,Fictitious,Brighton,144950
+,Brighton Food and Drink Festival,2012-09-18 00:00:00.000,2012-09-25 00:00:00.000,Fictitious,Brighton,37306
+,Digital Brighton,2012-11-10 00:00:00.000,2012-11-17 00:00:00.000,Fictitious,Brighton,10393
+,Brighton Christmas Market,2012-11-11 00:00:00.000,2012-11-18 00:00:00.000,Fictitious,Brighton,136303
+,Snowball Music Festival Brighton,2012-12-10 00:00:00.000,2012-12-13 00:00:00.000,Fictitious,Brighton,7476
+,Burning the Clocks Brighton,2012-12-22 00:00:00.000,2012-12-28 00:00:00.000,Fictitious,Brighton,19419
+,Brighton Half Marathon,2013-02-24 00:00:00.000,2013-02-25 00:00:00.000,Fictitious,Brighton,5865
+,Brighton Marathon,2013-04-16 00:00:00.000,2013-04-17 00:00:00.000,Fictitious,Brighton,10863
+,Brighton Festival,2013-05-19 00:00:00.000,2013-05-26 00:00:00.000,Fictitious,Brighton,498357
+,Great Escape Festival Brighton,2013-05-22 00:00:00.000,2013-05-25 00:00:00.000,Fictitious,Brighton,30722
+,Brighton Pride,2013-08-01 00:00:00.000,2013-08-08 00:00:00.000,Fictitious,Brighton,176469
+,Brighton Food and Drink Festival,2013-09-15 00:00:00.000,2013-09-22 00:00:00.000,Fictitious,Brighton,34458
+,Digital Brighton,2013-11-12 00:00:00.000,2013-11-19 00:00:00.000,Fictitious,Brighton,9935
+,Brighton Christmas Market,2013-11-18 00:00:00.000,2013-11-25 00:00:00.000,Fictitious,Brighton,166231
+,Burning the Clocks Brighton,2013-12-01 00:00:00.000,2013-12-08 00:00:00.000,Fictitious,Brighton,19972
+,Snowball Music Festival Brighton,2013-12-06 00:00:00.000,2013-12-09 00:00:00.000,Fictitious,Brighton,7620
+,Brighton Half Marathon,2014-02-18 00:00:00.000,2014-02-19 00:00:00.000,Fictitious,Brighton,6371
+,Brighton Marathon,2014-04-12 00:00:00.000,2014-04-13 00:00:00.000,Fictitious,Brighton,12390
+,Great Escape Festival Brighton,2014-05-04 00:00:00.000,2014-05-07 00:00:00.000,Fictitious,Brighton,32132
+,Brighton Festival,2014-05-15 00:00:00.000,2014-05-22 00:00:00.000,Fictitious,Brighton,471542
+,Brighton Pride,2014-08-19 00:00:00.000,2014-08-26 00:00:00.000,Fictitious,Brighton,166810
+,Brighton Food and Drink Festival,2014-09-24 00:00:00.000,2014-09-28 00:00:00.000,Fictitious,Brighton,35776
+,Digital Brighton,2014-11-17 00:00:00.000,2014-11-24 00:00:00.000,Fictitious,Brighton,9625
+,Brighton Christmas Market,2014-11-23 00:00:00.000,2014-11-28 00:00:00.000,Fictitious,Brighton,138665
+,Burning the Clocks Brighton,2014-12-11 00:00:00.000,2014-12-18 00:00:00.000,Fictitious,Brighton,18472
+,Snowball Music Festival Brighton,2014-12-23 00:00:00.000,2014-12-26 00:00:00.000,Fictitious,Brighton,8065
+,Brighton Half Marathon,2015-02-23 00:00:00.000,2015-02-24 00:00:00.000,Fictitious,Brighton,5965
+,Brighton Marathon,2015-04-27 00:00:00.000,2015-04-28 00:00:00.000,Fictitious,Brighton,11884
+,Great Escape Festival Brighton,2015-05-19 00:00:00.000,2015-05-22 00:00:00.000,Fictitious,Brighton,32034
+,Brighton Festival,2015-05-25 00:00:00.000,2015-05-28 00:00:00.000,Fictitious,Brighton,435840
+,Brighton Pride,2015-08-13 00:00:00.000,2015-08-20 00:00:00.000,Fictitious,Brighton,156031
+,Brighton Food and Drink Festival,2015-09-11 00:00:00.000,2015-09-18 00:00:00.000,Fictitious,Brighton,37954
+,Brighton Christmas Market,2015-11-07 00:00:00.000,2015-11-14 00:00:00.000,Fictitious,Brighton,158589
+,Digital Brighton,2015-11-24 00:00:00.000,2015-11-28 00:00:00.000,Fictitious,Brighton,10120
+,Burning the Clocks Brighton,2015-12-07 00:00:00.000,2015-12-14 00:00:00.000,Fictitious,Brighton,19303
+,Snowball Music Festival Brighton,2015-12-09 00:00:00.000,2015-12-12 00:00:00.000,Fictitious,Brighton,7127
+,Brighton Half Marathon,2016-02-23 00:00:00.000,2016-02-24 00:00:00.000,Fictitious,Brighton,5986
+,Brighton Marathon,2016-04-05 00:00:00.000,2016-04-06 00:00:00.000,Fictitious,Brighton,11814
+,Great Escape Festival Brighton,2016-05-12 00:00:00.000,2016-05-15 00:00:00.000,Fictitious,Brighton,30235
+,Brighton Festival,2016-05-20 00:00:00.000,2016-05-27 00:00:00.000,Fictitious,Brighton,461582
+,Brighton Pride,2016-08-23 00:00:00.000,2016-08-28 00:00:00.000,Fictitious,Brighton,148415
+,Brighton Food and Drink Festival,2016-09-27 00:00:00.000,2016-09-28 00:00:00.000,Fictitious,Brighton,38650
+,Brighton Christmas Market,2016-11-09 00:00:00.000,2016-11-16 00:00:00.000,Fictitious,Brighton,158085
+,Digital Brighton,2016-11-12 00:00:00.000,2016-11-19 00:00:00.000,Fictitious,Brighton,10486
+,Snowball Music Festival Brighton,2016-12-02 00:00:00.000,2016-12-05 00:00:00.000,Fictitious,Brighton,8102
+,Burning the Clocks Brighton,2016-12-09 00:00:00.000,2016-12-16 00:00:00.000,Fictitious,Brighton,19233
+,Cambridge Science Festival,2010-03-10 00:00:00.000,2010-03-17 00:00:00.000,Fictitious,Cambridge,26217
+,Cambridge Half Marathon,2010-03-21 00:00:00.000,2010-03-22 00:00:00.000,Fictitious,Cambridge,6514
+,Cambridge Literary Festival,2010-04-09 00:00:00.000,2010-04-16 00:00:00.000,Fictitious,Cambridge,10783
+,Cambridge Beer Festival,2010-05-13 00:00:00.000,2010-05-20 00:00:00.000,Fictitious,Cambridge,44910
+,Strawberry Fair Cambridge,2010-06-15 00:00:00.000,2010-06-18 00:00:00.000,Fictitious,Cambridge,13517
+,Cambridge Junction Music Events,2010-06-17 00:00:00.000,2010-06-20 00:00:00.000,Fictitious,Cambridge,5047
+,Cambridge Summer Music Festival,2010-07-01 00:00:00.000,2010-07-04 00:00:00.000,Fictitious,Cambridge,8959
+,Cambridge Folk Festival,2010-07-05 00:00:00.000,2010-07-08 00:00:00.000,Fictitious,Cambridge,13430
+,Cambridge Film Festival,2010-10-26 00:00:00.000,2010-10-28 00:00:00.000,Fictitious,Cambridge,20568
+,Cambridge Christmas Market,2010-11-03 00:00:00.000,2010-11-10 00:00:00.000,Fictitious,Cambridge,79424
+,Cambridge Science Festival,2011-03-15 00:00:00.000,2011-03-22 00:00:00.000,Fictitious,Cambridge,22427
+,Cambridge Half Marathon,2011-03-22 00:00:00.000,2011-03-23 00:00:00.000,Fictitious,Cambridge,6296
+,Cambridge Literary Festival,2011-04-03 00:00:00.000,2011-04-10 00:00:00.000,Fictitious,Cambridge,8943
+,Cambridge Beer Festival,2011-05-19 00:00:00.000,2011-05-26 00:00:00.000,Fictitious,Cambridge,46398
+,Strawberry Fair Cambridge,2011-06-09 00:00:00.000,2011-06-12 00:00:00.000,Fictitious,Cambridge,14363
+,Cambridge Junction Music Events,2011-06-15 00:00:00.000,2011-06-18 00:00:00.000,Fictitious,Cambridge,4496
+,Cambridge Summer Music Festival,2011-07-22 00:00:00.000,2011-07-25 00:00:00.000,Fictitious,Cambridge,8617
+,Cambridge Folk Festival,2011-07-25 00:00:00.000,2011-07-28 00:00:00.000,Fictitious,Cambridge,12971
+,Cambridge Film Festival,2011-10-25 00:00:00.000,2011-10-28 00:00:00.000,Fictitious,Cambridge,20108
+,Cambridge Christmas Market,2011-11-14 00:00:00.000,2011-11-21 00:00:00.000,Fictitious,Cambridge,76799
+,Cambridge Half Marathon,2012-03-08 00:00:00.000,2012-03-09 00:00:00.000,Fictitious,Cambridge,6452
+,Cambridge Science Festival,2012-03-08 00:00:00.000,2012-03-15 00:00:00.000,Fictitious,Cambridge,27543
+,Cambridge Literary Festival,2012-04-26 00:00:00.000,2012-04-28 00:00:00.000,Fictitious,Cambridge,9538
+,Cambridge Beer Festival,2012-05-02 00:00:00.000,2012-05-09 00:00:00.000,Fictitious,Cambridge,41238
+,Cambridge Junction Music Events,2012-06-02 00:00:00.000,2012-06-05 00:00:00.000,Fictitious,Cambridge,5467
+,Strawberry Fair Cambridge,2012-06-25 00:00:00.000,2012-06-28 00:00:00.000,Fictitious,Cambridge,14655
+,Cambridge Summer Music Festival,2012-07-19 00:00:00.000,2012-07-22 00:00:00.000,Fictitious,Cambridge,7117
+,Cambridge Folk Festival,2012-07-28 00:00:00.000,2012-07-28 00:00:00.000,Fictitious,Cambridge,11478
+,Cambridge Film Festival,2012-10-15 00:00:00.000,2012-10-22 00:00:00.000,Fictitious,Cambridge,21960
+,Cambridge Christmas Market,2012-11-22 00:00:00.000,2012-11-28 00:00:00.000,Fictitious,Cambridge,72408
+,Cambridge Half Marathon,2013-03-03 00:00:00.000,2013-03-04 00:00:00.000,Fictitious,Cambridge,6422
+,Cambridge Science Festival,2013-03-26 00:00:00.000,2013-03-28 00:00:00.000,Fictitious,Cambridge,26747
+,Cambridge Literary Festival,2013-04-24 00:00:00.000,2013-04-28 00:00:00.000,Fictitious,Cambridge,10778
+,Cambridge Beer Festival,2013-05-26 00:00:00.000,2013-05-28 00:00:00.000,Fictitious,Cambridge,45678
+,Strawberry Fair Cambridge,2013-06-17 00:00:00.000,2013-06-20 00:00:00.000,Fictitious,Cambridge,16169
+,Cambridge Junction Music Events,2013-06-24 00:00:00.000,2013-06-27 00:00:00.000,Fictitious,Cambridge,4786
+,Cambridge Folk Festival,2013-07-10 00:00:00.000,2013-07-13 00:00:00.000,Fictitious,Cambridge,12904
+,Cambridge Summer Music Festival,2013-07-25 00:00:00.000,2013-07-28 00:00:00.000,Fictitious,Cambridge,7376
+,Cambridge Film Festival,2013-10-10 00:00:00.000,2013-10-17 00:00:00.000,Fictitious,Cambridge,21728
+,Cambridge Christmas Market,2013-11-06 00:00:00.000,2013-11-13 00:00:00.000,Fictitious,Cambridge,76732
+,Cambridge Half Marathon,2014-03-14 00:00:00.000,2014-03-15 00:00:00.000,Fictitious,Cambridge,6916
+,Cambridge Science Festival,2014-03-19 00:00:00.000,2014-03-26 00:00:00.000,Fictitious,Cambridge,25967
+,Cambridge Literary Festival,2014-04-10 00:00:00.000,2014-04-17 00:00:00.000,Fictitious,Cambridge,9853
+,Cambridge Beer Festival,2014-05-10 00:00:00.000,2014-05-17 00:00:00.000,Fictitious,Cambridge,40519
+,Strawberry Fair Cambridge,2014-06-01 00:00:00.000,2014-06-04 00:00:00.000,Fictitious,Cambridge,15567
+,Cambridge Junction Music Events,2014-06-09 00:00:00.000,2014-06-12 00:00:00.000,Fictitious,Cambridge,4431
+,Cambridge Folk Festival,2014-07-15 00:00:00.000,2014-07-18 00:00:00.000,Fictitious,Cambridge,12503
+,Cambridge Summer Music Festival,2014-07-17 00:00:00.000,2014-07-20 00:00:00.000,Fictitious,Cambridge,8290
+,Cambridge Film Festival,2014-10-14 00:00:00.000,2014-10-21 00:00:00.000,Fictitious,Cambridge,19065
+,Cambridge Christmas Market,2014-11-23 00:00:00.000,2014-11-28 00:00:00.000,Fictitious,Cambridge,79913
+,Cambridge Science Festival,2015-03-07 00:00:00.000,2015-03-14 00:00:00.000,Fictitious,Cambridge,24550
+,Cambridge Half Marathon,2015-03-20 00:00:00.000,2015-03-21 00:00:00.000,Fictitious,Cambridge,6949
+,Cambridge Literary Festival,2015-04-15 00:00:00.000,2015-04-22 00:00:00.000,Fictitious,Cambridge,10452
+,Cambridge Beer Festival,2015-05-08 00:00:00.000,2015-05-15 00:00:00.000,Fictitious,Cambridge,40879
+,Cambridge Junction Music Events,2015-06-08 00:00:00.000,2015-06-11 00:00:00.000,Fictitious,Cambridge,5554
+,Strawberry Fair Cambridge,2015-06-18 00:00:00.000,2015-06-21 00:00:00.000,Fictitious,Cambridge,14863
+,Cambridge Folk Festival,2015-07-02 00:00:00.000,2015-07-05 00:00:00.000,Fictitious,Cambridge,12227
+,Cambridge Summer Music Festival,2015-07-09 00:00:00.000,2015-07-12 00:00:00.000,Fictitious,Cambridge,7388
+,Cambridge Film Festival,2015-10-20 00:00:00.000,2015-10-27 00:00:00.000,Fictitious,Cambridge,17889
+,Cambridge Christmas Market,2015-11-22 00:00:00.000,2015-11-28 00:00:00.000,Fictitious,Cambridge,88547
+,Cambridge Half Marathon,2016-03-02 00:00:00.000,2016-03-03 00:00:00.000,Fictitious,Cambridge,6548
+,Cambridge Science Festival,2016-03-18 00:00:00.000,2016-03-25 00:00:00.000,Fictitious,Cambridge,23348
+,Cambridge Literary Festival,2016-04-23 00:00:00.000,2016-04-28 00:00:00.000,Fictitious,Cambridge,9766
+,Cambridge Beer Festival,2016-05-25 00:00:00.000,2016-05-28 00:00:00.000,Fictitious,Cambridge,44094
+,Strawberry Fair Cambridge,2016-06-02 00:00:00.000,2016-06-05 00:00:00.000,Fictitious,Cambridge,13875
+,Cambridge Junction Music Events,2016-06-27 00:00:00.000,2016-06-28 00:00:00.000,Fictitious,Cambridge,5432
+,Cambridge Summer Music Festival,2016-07-19 00:00:00.000,2016-07-22 00:00:00.000,Fictitious,Cambridge,7876
+,Cambridge Folk Festival,2016-07-28 00:00:00.000,2016-07-28 00:00:00.000,Fictitious,Cambridge,12930
+,Cambridge Film Festival,2016-10-24 00:00:00.000,2016-10-28 00:00:00.000,Fictitious,Cambridge,18076
+,Cambridge Christmas Market,2016-11-27 00:00:00.000,2016-11-28 00:00:00.000,Fictitious,Cambridge,85001
+,Liverpool Half Marathon,2010-03-06 00:00:00.000,2010-03-07 00:00:00.000,Fictitious,Liverpool,7425
+,Grand National,2010-04-04 00:00:00.000,2010-04-05 00:00:00.000,Fictitious,Liverpool,140539
+,Liverpool Sound City,2010-05-03 00:00:00.000,2010-05-06 00:00:00.000,Fictitious,Liverpool,20525
+,Africa Oye Liverpool,2010-06-09 00:00:00.000,2010-06-12 00:00:00.000,Fictitious,Liverpool,50438
+,Liverpool International Tennis Tournament,2010-06-26 00:00:00.000,2010-06-27 00:00:00.000,Fictitious,Liverpool,13614
+,Liverpool Pride,2010-07-02 00:00:00.000,2010-07-09 00:00:00.000,Fictitious,Liverpool,21970
+,Liverpool Biennial,2010-07-04 00:00:00.000,2010-07-11 00:00:00.000,Fictitious,Liverpool,187270
+,Liverpool International Music Festival,2010-08-10 00:00:00.000,2010-08-13 00:00:00.000,Fictitious,Liverpool,41705
+,Liverpool Food and Drink Festival,2010-09-22 00:00:00.000,2010-09-28 00:00:00.000,Fictitious,Liverpool,32436
+,Liverpool Christmas Markets,2010-11-11 00:00:00.000,2010-11-18 00:00:00.000,Fictitious,Liverpool,219932
+,Liverpool Half Marathon,2011-03-26 00:00:00.000,2011-03-27 00:00:00.000,Fictitious,Liverpool,8075
+,Grand National,2011-04-19 00:00:00.000,2011-04-20 00:00:00.000,Fictitious,Liverpool,144922
+,Liverpool Sound City,2011-05-13 00:00:00.000,2011-05-16 00:00:00.000,Fictitious,Liverpool,20574
+,Liverpool International Tennis Tournament,2011-06-03 00:00:00.000,2011-06-04 00:00:00.000,Fictitious,Liverpool,13706
+,Africa Oye Liverpool,2011-06-15 00:00:00.000,2011-06-18 00:00:00.000,Fictitious,Liverpool,48423
+,Liverpool Biennial,2011-07-18 00:00:00.000,2011-07-25 00:00:00.000,Fictitious,Liverpool,182511
+,Liverpool Pride,2011-07-24 00:00:00.000,2011-07-28 00:00:00.000,Fictitious,Liverpool,19984
+,Liverpool International Music Festival,2011-08-06 00:00:00.000,2011-08-09 00:00:00.000,Fictitious,Liverpool,35909
+,Liverpool Food and Drink Festival,2011-09-21 00:00:00.000,2011-09-28 00:00:00.000,Fictitious,Liverpool,27099
+,Liverpool Christmas Markets,2011-11-08 00:00:00.000,2011-11-15 00:00:00.000,Fictitious,Liverpool,207087
+,Liverpool Half Marathon,2012-03-12 00:00:00.000,2012-03-13 00:00:00.000,Fictitious,Liverpool,8059
+,Grand National,2012-04-10 00:00:00.000,2012-04-11 00:00:00.000,Fictitious,Liverpool,167736
+,Liverpool Sound City,2012-05-08 00:00:00.000,2012-05-11 00:00:00.000,Fictitious,Liverpool,19988
+,Liverpool International Tennis Tournament,2012-06-08 00:00:00.000,2012-06-09 00:00:00.000,Fictitious,Liverpool,16296
+,Africa Oye Liverpool,2012-06-24 00:00:00.000,2012-06-27 00:00:00.000,Fictitious,Liverpool,52068
+,Liverpool Pride,2012-07-10 00:00:00.000,2012-07-17 00:00:00.000,Fictitious,Liverpool,21323
+,Liverpool Biennial,2012-07-15 00:00:00.000,2012-07-22 00:00:00.000,Fictitious,Liverpool,193808
+,Liverpool International Music Festival,2012-08-12 00:00:00.000,2012-08-15 00:00:00.000,Fictitious,Liverpool,44681
+,Liverpool Food and Drink Festival,2012-09-21 00:00:00.000,2012-09-28 00:00:00.000,Fictitious,Liverpool,31053
+,Liverpool Christmas Markets,2012-11-21 00:00:00.000,2012-11-28 00:00:00.000,Fictitious,Liverpool,215545
+,Liverpool Half Marathon,2013-03-09 00:00:00.000,2013-03-10 00:00:00.000,Fictitious,Liverpool,8634
+,Grand National,2013-04-10 00:00:00.000,2013-04-11 00:00:00.000,Fictitious,Liverpool,132789
+,Liverpool Sound City,2013-05-19 00:00:00.000,2013-05-22 00:00:00.000,Fictitious,Liverpool,18286
+,Africa Oye Liverpool,2013-06-19 00:00:00.000,2013-06-22 00:00:00.000,Fictitious,Liverpool,48572
+,Liverpool International Tennis Tournament,2013-06-24 00:00:00.000,2013-06-25 00:00:00.000,Fictitious,Liverpool,15627
+,Liverpool Pride,2013-07-08 00:00:00.000,2013-07-15 00:00:00.000,Fictitious,Liverpool,20513
+,Liverpool Biennial,2013-07-24 00:00:00.000,2013-07-28 00:00:00.000,Fictitious,Liverpool,209431
+,Liverpool International Music Festival,2013-08-10 00:00:00.000,2013-08-13 00:00:00.000,Fictitious,Liverpool,41333
+,Liverpool Food and Drink Festival,2013-09-10 00:00:00.000,2013-09-17 00:00:00.000,Fictitious,Liverpool,32077
+,Liverpool Christmas Markets,2013-11-23 00:00:00.000,2013-11-28 00:00:00.000,Fictitious,Liverpool,190505
+,Liverpool Half Marathon,2014-03-09 00:00:00.000,2014-03-10 00:00:00.000,Fictitious,Liverpool,8794
+,Grand National,2014-04-27 00:00:00.000,2014-04-28 00:00:00.000,Fictitious,Liverpool,155696
+,Liverpool Sound City,2014-05-15 00:00:00.000,2014-05-18 00:00:00.000,Fictitious,Liverpool,20661
+,Liverpool International Tennis Tournament,2014-06-13 00:00:00.000,2014-06-14 00:00:00.000,Fictitious,Liverpool,16682
+,Africa Oye Liverpool,2014-06-21 00:00:00.000,2014-06-24 00:00:00.000,Fictitious,Liverpool,55283
+,Liverpool Pride,2014-07-12 00:00:00.000,2014-07-19 00:00:00.000,Fictitious,Liverpool,18651
+,Liverpool Biennial,2014-07-18 00:00:00.000,2014-07-25 00:00:00.000,Fictitious,Liverpool,196118
+,Liverpool International Music Festival,2014-08-14 00:00:00.000,2014-08-17 00:00:00.000,Fictitious,Liverpool,41827
+,Liverpool Food and Drink Festival,2014-09-02 00:00:00.000,2014-09-09 00:00:00.000,Fictitious,Liverpool,30572
+,Liverpool Christmas Markets,2014-11-14 00:00:00.000,2014-11-21 00:00:00.000,Fictitious,Liverpool,181600
+,Liverpool Half Marathon,2015-03-16 00:00:00.000,2015-03-17 00:00:00.000,Fictitious,Liverpool,8897
+,Grand National,2015-04-09 00:00:00.000,2015-04-10 00:00:00.000,Fictitious,Liverpool,132291
+,Liverpool Sound City,2015-05-15 00:00:00.000,2015-05-18 00:00:00.000,Fictitious,Liverpool,18825
+,Africa Oye Liverpool,2015-06-04 00:00:00.000,2015-06-07 00:00:00.000,Fictitious,Liverpool,52098
+,Liverpool International Tennis Tournament,2015-06-26 00:00:00.000,2015-06-27 00:00:00.000,Fictitious,Liverpool,15206
+,Liverpool Pride,2015-07-07 00:00:00.000,2015-07-14 00:00:00.000,Fictitious,Liverpool,20580
+,Liverpool Biennial,2015-07-24 00:00:00.000,2015-07-28 00:00:00.000,Fictitious,Liverpool,210876
+,Liverpool International Music Festival,2015-08-15 00:00:00.000,2015-08-18 00:00:00.000,Fictitious,Liverpool,43314
+,Liverpool Food and Drink Festival,2015-09-24 00:00:00.000,2015-09-28 00:00:00.000,Fictitious,Liverpool,27346
+,Liverpool Christmas Markets,2015-11-02 00:00:00.000,2015-11-09 00:00:00.000,Fictitious,Liverpool,221420
+,Liverpool Half Marathon,2016-03-10 00:00:00.000,2016-03-11 00:00:00.000,Fictitious,Liverpool,8473
+,Grand National,2016-04-28 00:00:00.000,2016-04-28 00:00:00.000,Fictitious,Liverpool,156688
+,Liverpool Sound City,2016-05-01 00:00:00.000,2016-05-04 00:00:00.000,Fictitious,Liverpool,21914
+,Liverpool International Tennis Tournament,2016-06-03 00:00:00.000,2016-06-04 00:00:00.000,Fictitious,Liverpool,16046
+,Africa Oye Liverpool,2016-06-16 00:00:00.000,2016-06-19 00:00:00.000,Fictitious,Liverpool,44300
+,Liverpool Biennial,2016-07-14 00:00:00.000,2016-07-21 00:00:00.000,Fictitious,Liverpool,207436
+,Liverpool Pride,2016-07-22 00:00:00.000,2016-07-28 00:00:00.000,Fictitious,Liverpool,21226
+,Liverpool International Music Festival,2016-08-07 00:00:00.000,2016-08-10 00:00:00.000,Fictitious,Liverpool,44793
+,Liverpool Food and Drink Festival,2016-09-10 00:00:00.000,2016-09-17 00:00:00.000,Fictitious,Liverpool,28752
+,Liverpool Christmas Markets,2016-11-10 00:00:00.000,2016-11-17 00:00:00.000,Fictitious,Liverpool,223804
+,Crufts Dog Show,2010-03-20 00:00:00.000,2010-03-21 00:00:00.000,Fictitious,Birmingham,152854
+,Birmingham Pride,2010-05-20 00:00:00.000,2010-05-27 00:00:00.000,Fictitious,Birmingham,42394
+,Birmingham NEC Motor Show,2010-05-22 00:00:00.000,2010-05-28 00:00:00.000,Fictitious,Birmingham,52977
+,Birmingham International Jazz and Blues Festival,2010-07-09 00:00:00.000,2010-07-12 00:00:00.000,Fictitious,Birmingham,18375
+,Brindleyplace Canal Festival,2010-08-07 00:00:00.000,2010-08-14 00:00:00.000,Fictitious,Birmingham,32939
+,Artsfest Birmingham,2010-09-14 00:00:00.000,2010-09-21 00:00:00.000,Fictitious,Birmingham,63741
+,Birmingham Literature Festival,2010-10-04 00:00:00.000,2010-10-11 00:00:00.000,Fictitious,Birmingham,21809
+,Birmingham International Marathon,2010-10-26 00:00:00.000,2010-10-27 00:00:00.000,Fictitious,Birmingham,11274
+,Frankfurt Christmas Market Birmingham,2010-11-08 00:00:00.000,2010-11-15 00:00:00.000,Fictitious,Birmingham,797111
+,Crufts Dog Show,2011-03-28 00:00:00.000,2011-03-28 00:00:00.000,Fictitious,Birmingham,145585
+,Birmingham NEC Motor Show,2011-05-06 00:00:00.000,2011-05-13 00:00:00.000,Fictitious,Birmingham,51386
+,Birmingham Pride,2011-05-08 00:00:00.000,2011-05-15 00:00:00.000,Fictitious,Birmingham,43500
+,Birmingham International Jazz and Blues Festival,2011-07-15 00:00:00.000,2011-07-18 00:00:00.000,Fictitious,Birmingham,20248
+,Brindleyplace Canal Festival,2011-08-23 00:00:00.000,2011-08-28 00:00:00.000,Fictitious,Birmingham,34462
+,Artsfest Birmingham,2011-09-10 00:00:00.000,2011-09-17 00:00:00.000,Fictitious,Birmingham,67726
+,Birmingham International Marathon,2011-10-06 00:00:00.000,2011-10-07 00:00:00.000,Fictitious,Birmingham,12827
+,Birmingham Literature Festival,2011-10-09 00:00:00.000,2011-10-16 00:00:00.000,Fictitious,Birmingham,18457
+,Frankfurt Christmas Market Birmingham,2011-11-07 00:00:00.000,2011-11-14 00:00:00.000,Fictitious,Birmingham,878068
+,Crufts Dog Show,2012-03-10 00:00:00.000,2012-03-11 00:00:00.000,Fictitious,Birmingham,160273
+,Birmingham NEC Motor Show,2012-05-10 00:00:00.000,2012-05-17 00:00:00.000,Fictitious,Birmingham,48872
+,Birmingham Pride,2012-05-26 00:00:00.000,2012-05-28 00:00:00.000,Fictitious,Birmingham,42983
+,Birmingham International Jazz and Blues Festival,2012-07-14 00:00:00.000,2012-07-17 00:00:00.000,Fictitious,Birmingham,20292
+,Brindleyplace Canal Festival,2012-08-17 00:00:00.000,2012-08-24 00:00:00.000,Fictitious,Birmingham,38574
+,Artsfest Birmingham,2012-09-26 00:00:00.000,2012-09-28 00:00:00.000,Fictitious,Birmingham,77932
+,Birmingham International Marathon,2012-10-04 00:00:00.000,2012-10-05 00:00:00.000,Fictitious,Birmingham,11661
+,Birmingham Literature Festival,2012-10-09 00:00:00.000,2012-10-16 00:00:00.000,Fictitious,Birmingham,17783
+,Frankfurt Christmas Market Birmingham,2012-11-09 00:00:00.000,2012-11-16 00:00:00.000,Fictitious,Birmingham,978700
+,Crufts Dog Show,2013-03-22 00:00:00.000,2013-03-23 00:00:00.000,Fictitious,Birmingham,156482
+,Birmingham Pride,2013-05-14 00:00:00.000,2013-05-21 00:00:00.000,Fictitious,Birmingham,35437
+,Birmingham NEC Motor Show,2013-05-27 00:00:00.000,2013-05-28 00:00:00.000,Fictitious,Birmingham,44004
+,Birmingham International Jazz and Blues Festival,2013-07-04 00:00:00.000,2013-07-07 00:00:00.000,Fictitious,Birmingham,17961
+,Brindleyplace Canal Festival,2013-08-18 00:00:00.000,2013-08-25 00:00:00.000,Fictitious,Birmingham,36569
+,Artsfest Birmingham,2013-09-02 00:00:00.000,2013-09-09 00:00:00.000,Fictitious,Birmingham,76701
+,Birmingham International Marathon,2013-10-02 00:00:00.000,2013-10-03 00:00:00.000,Fictitious,Birmingham,13032
+,Birmingham Literature Festival,2013-10-20 00:00:00.000,2013-10-27 00:00:00.000,Fictitious,Birmingham,19685
+,Frankfurt Christmas Market Birmingham,2013-11-25 00:00:00.000,2013-11-28 00:00:00.000,Fictitious,Birmingham,852290
+,Crufts Dog Show,2014-03-13 00:00:00.000,2014-03-14 00:00:00.000,Fictitious,Birmingham,167572
+,Birmingham NEC Motor Show,2014-05-10 00:00:00.000,2014-05-17 00:00:00.000,Fictitious,Birmingham,46522
+,Birmingham Pride,2014-05-24 00:00:00.000,2014-05-28 00:00:00.000,Fictitious,Birmingham,44075
+,Birmingham International Jazz and Blues Festival,2014-07-23 00:00:00.000,2014-07-26 00:00:00.000,Fictitious,Birmingham,21938
+,Brindleyplace Canal Festival,2014-08-24 00:00:00.000,2014-08-28 00:00:00.000,Fictitious,Birmingham,36991
+,Artsfest Birmingham,2014-09-07 00:00:00.000,2014-09-14 00:00:00.000,Fictitious,Birmingham,73058
+,Birmingham International Marathon,2014-10-08 00:00:00.000,2014-10-09 00:00:00.000,Fictitious,Birmingham,11134
+,Birmingham Literature Festival,2014-10-24 00:00:00.000,2014-10-28 00:00:00.000,Fictitious,Birmingham,21374
+,Frankfurt Christmas Market Birmingham,2014-11-21 00:00:00.000,2014-11-28 00:00:00.000,Fictitious,Birmingham,902031
+,Crufts Dog Show,2015-03-18 00:00:00.000,2015-03-19 00:00:00.000,Fictitious,Birmingham,145687
+,Birmingham Pride,2015-05-26 00:00:00.000,2015-05-28 00:00:00.000,Fictitious,Birmingham,44135
+,Birmingham NEC Motor Show,2015-05-26 00:00:00.000,2015-05-28 00:00:00.000,Fictitious,Birmingham,50959
+,Birmingham International Jazz and Blues Festival,2015-07-18 00:00:00.000,2015-07-21 00:00:00.000,Fictitious,Birmingham,17772
+,Brindleyplace Canal Festival,2015-08-07 00:00:00.000,2015-08-14 00:00:00.000,Fictitious,Birmingham,33859
+,Artsfest Birmingham,2015-09-22 00:00:00.000,2015-09-28 00:00:00.000,Fictitious,Birmingham,63326
+,Birmingham Literature Festival,2015-10-14 00:00:00.000,2015-10-21 00:00:00.000,Fictitious,Birmingham,20509
+,Birmingham International Marathon,2015-10-15 00:00:00.000,2015-10-16 00:00:00.000,Fictitious,Birmingham,11567
+,Frankfurt Christmas Market Birmingham,2015-11-22 00:00:00.000,2015-11-28 00:00:00.000,Fictitious,Birmingham,1003928
+,Crufts Dog Show,2016-03-14 00:00:00.000,2016-03-15 00:00:00.000,Fictitious,Birmingham,166333
+,Birmingham NEC Motor Show,2016-05-21 00:00:00.000,2016-05-28 00:00:00.000,Fictitious,Birmingham,47866
+,Birmingham Pride,2016-05-26 00:00:00.000,2016-05-28 00:00:00.000,Fictitious,Birmingham,41631
+,Birmingham International Jazz and Blues Festival,2016-07-12 00:00:00.000,2016-07-15 00:00:00.000,Fictitious,Birmingham,20396
+,Brindleyplace Canal Festival,2016-08-03 00:00:00.000,2016-08-10 00:00:00.000,Fictitious,Birmingham,38770
+,Artsfest Birmingham,2016-09-25 00:00:00.000,2016-09-28 00:00:00.000,Fictitious,Birmingham,71006
+,Birmingham Literature Festival,2016-10-17 00:00:00.000,2016-10-24 00:00:00.000,Fictitious,Birmingham,18155
+,Birmingham International Marathon,2016-10-27 00:00:00.000,2016-10-28 00:00:00.000,Fictitious,Birmingham,12850
+,Frankfurt Christmas Market Birmingham,2016-11-18 00:00:00.000,2016-11-25 00:00:00.000,Fictitious,Birmingham,863528
+,Manchester Half Marathon,2010-05-02 00:00:00.000,2010-05-03 00:00:00.000,Fictitious,Manchester,15892
+,Parklife Festival Manchester,2010-06-17 00:00:00.000,2010-06-20 00:00:00.000,Fictitious,Manchester,70550
+,Manchester International Festival,2010-07-07 00:00:00.000,2010-07-14 00:00:00.000,Fictitious,Manchester,108316
+,Manchester Jazz Festival,2010-07-08 00:00:00.000,2010-07-11 00:00:00.000,Fictitious,Manchester,37039
+,Manchester Pride,2010-08-28 00:00:00.000,2010-08-28 00:00:00.000,Fictitious,Manchester,74915
+,Manchester Food and Drink Festival,2010-09-26 00:00:00.000,2010-09-28 00:00:00.000,Fictitious,Manchester,53421
+,Manchester Literary Festival,2010-10-18 00:00:00.000,2010-10-25 00:00:00.000,Fictitious,Manchester,13967
+,Manchester Science Festival,2010-10-27 00:00:00.000,2010-10-28 00:00:00.000,Fictitious,Manchester,53012
+,Manchester International Fireworks Competition,2010-11-07 00:00:00.000,2010-11-14 00:00:00.000,Fictitious,Manchester,26124
+,Manchester Christmas Markets,2010-11-22 00:00:00.000,2010-11-28 00:00:00.000,Fictitious,Manchester,525943
+,Manchester Half Marathon,2011-05-02 00:00:00.000,2011-05-03 00:00:00.000,Fictitious,Manchester,13380
+,Parklife Festival Manchester,2011-06-27 00:00:00.000,2011-06-28 00:00:00.000,Fictitious,Manchester,81048
+,Manchester Jazz Festival,2011-07-18 00:00:00.000,2011-07-21 00:00:00.000,Fictitious,Manchester,39506
+,Manchester International Festival,2011-07-22 00:00:00.000,2011-07-28 00:00:00.000,Fictitious,Manchester,118014
+,Manchester Pride,2011-08-04 00:00:00.000,2011-08-11 00:00:00.000,Fictitious,Manchester,88478
+,Manchester Food and Drink Festival,2011-09-10 00:00:00.000,2011-09-17 00:00:00.000,Fictitious,Manchester,49076
+,Manchester Science Festival,2011-10-03 00:00:00.000,2011-10-10 00:00:00.000,Fictitious,Manchester,66139
+,Manchester Literary Festival,2011-10-09 00:00:00.000,2011-10-16 00:00:00.000,Fictitious,Manchester,13676
+,Manchester Christmas Markets,2011-11-08 00:00:00.000,2011-11-15 00:00:00.000,Fictitious,Manchester,471873
+,Manchester International Fireworks Competition,2011-11-28 00:00:00.000,2011-11-28 00:00:00.000,Fictitious,Manchester,23583
+,Manchester Half Marathon,2012-05-16 00:00:00.000,2012-05-17 00:00:00.000,Fictitious,Manchester,15010
+,Parklife Festival Manchester,2012-06-22 00:00:00.000,2012-06-25 00:00:00.000,Fictitious,Manchester,72388
+,Manchester International Festival,2012-07-14 00:00:00.000,2012-07-21 00:00:00.000,Fictitious,Manchester,117439
+,Manchester Jazz Festival,2012-07-14 00:00:00.000,2012-07-17 00:00:00.000,Fictitious,Manchester,36961
+,Manchester Pride,2012-08-19 00:00:00.000,2012-08-26 00:00:00.000,Fictitious,Manchester,75127
+,Manchester Food and Drink Festival,2012-09-24 00:00:00.000,2012-09-28 00:00:00.000,Fictitious,Manchester,55945
+,Manchester Literary Festival,2012-10-12 00:00:00.000,2012-10-19 00:00:00.000,Fictitious,Manchester,16371
+,Manchester Science Festival,2012-10-28 00:00:00.000,2012-10-28 00:00:00.000,Fictitious,Manchester,56203
+,Manchester Christmas Markets,2012-11-05 00:00:00.000,2012-11-12 00:00:00.000,Fictitious,Manchester,520602
+,Manchester International Fireworks Competition,2012-11-16 00:00:00.000,2012-11-23 00:00:00.000,Fictitious,Manchester,23506
+,Manchester Half Marathon,2013-05-28 00:00:00.000,2013-05-28 00:00:00.000,Fictitious,Manchester,15112
+,Parklife Festival Manchester,2013-06-05 00:00:00.000,2013-06-08 00:00:00.000,Fictitious,Manchester,75477
+,Manchester Jazz Festival,2013-07-15 00:00:00.000,2013-07-18 00:00:00.000,Fictitious,Manchester,37598
+,Manchester International Festival,2013-07-28 00:00:00.000,2013-07-28 00:00:00.000,Fictitious,Manchester,126597
+,Manchester Pride,2013-08-20 00:00:00.000,2013-08-27 00:00:00.000,Fictitious,Manchester,71163
+,Manchester Food and Drink Festival,2013-09-18 00:00:00.000,2013-09-25 00:00:00.000,Fictitious,Manchester,51942
+,Manchester Literary Festival,2013-10-08 00:00:00.000,2013-10-15 00:00:00.000,Fictitious,Manchester,14530
+,Manchester Science Festival,2013-10-14 00:00:00.000,2013-10-21 00:00:00.000,Fictitious,Manchester,59793
+,Manchester Christmas Markets,2013-11-10 00:00:00.000,2013-11-17 00:00:00.000,Fictitious,Manchester,494866
+,Manchester International Fireworks Competition,2013-11-28 00:00:00.000,2013-11-28 00:00:00.000,Fictitious,Manchester,22304
+,Manchester Half Marathon,2014-05-02 00:00:00.000,2014-05-03 00:00:00.000,Fictitious,Manchester,16658
+,Parklife Festival Manchester,2014-06-04 00:00:00.000,2014-06-07 00:00:00.000,Fictitious,Manchester,84654
+,Manchester Jazz Festival,2014-07-03 00:00:00.000,2014-07-06 00:00:00.000,Fictitious,Manchester,39454
+,Manchester International Festival,2014-07-22 00:00:00.000,2014-07-28 00:00:00.000,Fictitious,Manchester,124419
+,Manchester Pride,2014-08-03 00:00:00.000,2014-08-10 00:00:00.000,Fictitious,Manchester,78449
+,Manchester Food and Drink Festival,2014-09-16 00:00:00.000,2014-09-23 00:00:00.000,Fictitious,Manchester,45857
+,Manchester Literary Festival,2014-10-06 00:00:00.000,2014-10-13 00:00:00.000,Fictitious,Manchester,14777
+,Manchester Science Festival,2014-10-07 00:00:00.000,2014-10-14 00:00:00.000,Fictitious,Manchester,65250
+,Manchester International Fireworks Competition,2014-11-21 00:00:00.000,2014-11-28 00:00:00.000,Fictitious,Manchester,24541
+,Manchester Christmas Markets,2014-11-25 00:00:00.000,2014-11-28 00:00:00.000,Fictitious,Manchester,552288
+,Manchester Half Marathon,2015-05-03 00:00:00.000,2015-05-04 00:00:00.000,Fictitious,Manchester,16264
+,Parklife Festival Manchester,2015-06-05 00:00:00.000,2015-06-08 00:00:00.000,Fictitious,Manchester,75629
+,Manchester International Festival,2015-07-21 00:00:00.000,2015-07-28 00:00:00.000,Fictitious,Manchester,108434
+,Manchester Jazz Festival,2015-07-28 00:00:00.000,2015-07-28 00:00:00.000,Fictitious,Manchester,43417
+,Manchester Pride,2015-08-19 00:00:00.000,2015-08-26 00:00:00.000,Fictitious,Manchester,81252
+,Manchester Food and Drink Festival,2015-09-10 00:00:00.000,2015-09-17 00:00:00.000,Fictitious,Manchester,46612
+,Manchester Science Festival,2015-10-02 00:00:00.000,2015-10-09 00:00:00.000,Fictitious,Manchester,55170
+,Manchester Literary Festival,2015-10-18 00:00:00.000,2015-10-25 00:00:00.000,Fictitious,Manchester,15732
+,Manchester Christmas Markets,2015-11-01 00:00:00.000,2015-11-08 00:00:00.000,Fictitious,Manchester,494994
+,Manchester International Fireworks Competition,2015-11-09 00:00:00.000,2015-11-16 00:00:00.000,Fictitious,Manchester,22264
+,Manchester Half Marathon,2016-05-03 00:00:00.000,2016-05-04 00:00:00.000,Fictitious,Manchester,15342
+,Parklife Festival Manchester,2016-06-20 00:00:00.000,2016-06-23 00:00:00.000,Fictitious,Manchester,74444
+,Manchester Jazz Festival,2016-07-04 00:00:00.000,2016-07-07 00:00:00.000,Fictitious,Manchester,35685
+,Manchester International Festival,2016-07-13 00:00:00.000,2016-07-20 00:00:00.000,Fictitious,Manchester,126572
+,Manchester Pride,2016-08-11 00:00:00.000,2016-08-18 00:00:00.000,Fictitious,Manchester,88346
+,Manchester Food and Drink Festival,2016-09-02 00:00:00.000,2016-09-09 00:00:00.000,Fictitious,Manchester,50950
+,Manchester Science Festival,2016-10-01 00:00:00.000,2016-10-08 00:00:00.000,Fictitious,Manchester,66988
+,Manchester Literary Festival,2016-10-20 00:00:00.000,2016-10-27 00:00:00.000,Fictitious,Manchester,16741
+,Manchester International Fireworks Competition,2016-11-11 00:00:00.000,2016-11-18 00:00:00.000,Fictitious,Manchester,26626
+,Manchester Christmas Markets,2016-11-19 00:00:00.000,2016-11-26 00:00:00.000,Fictitious,Manchester,559531
+,Oxford Literary Festival,2010-03-20 00:00:00.000,2010-03-27 00:00:00.000,Fictitious,Oxford,26538
+,May Morning Oxford,2010-05-06 00:00:00.000,2010-05-13 00:00:00.000,Fictitious,Oxford,12558
+,Cowley Road Carnival,2010-06-08 00:00:00.000,2010-06-11 00:00:00.000,Fictitious,Oxford,16281
+,Oxfordshire Arts Week,2010-06-26 00:00:00.000,2010-06-28 00:00:00.000,Fictitious,Oxford,28122
+,Oxford Pride,2010-07-28 00:00:00.000,2010-07-28 00:00:00.000,Fictitious,Oxford,13451
+,Creation Records Exhibition Oxford,2010-08-16 00:00:00.000,2010-08-23 00:00:00.000,Fictitious,Oxford,5337
+,Oxford Folk Festival,2010-09-17 00:00:00.000,2010-09-20 00:00:00.000,Fictitious,Oxford,8893
+,Oxford Beer Festival,2010-09-28 00:00:00.000,2010-09-28 00:00:00.000,Fictitious,Oxford,10098
+,Oxford Half Marathon,2010-10-23 00:00:00.000,2010-10-24 00:00:00.000,Fictitious,Oxford,4750
+,Oxford Christmas Market,2010-11-16 00:00:00.000,2010-11-23 00:00:00.000,Fictitious,Oxford,108766
+,Oxford Literary Festival,2011-03-21 00:00:00.000,2011-03-28 00:00:00.000,Fictitious,Oxford,24652
+,May Morning Oxford,2011-05-01 00:00:00.000,2011-05-08 00:00:00.000,Fictitious,Oxford,10692
+,Oxfordshire Arts Week,2011-06-06 00:00:00.000,2011-06-13 00:00:00.000,Fictitious,Oxford,28637
+,Cowley Road Carnival,2011-06-14 00:00:00.000,2011-06-17 00:00:00.000,Fictitious,Oxford,13357
+,Oxford Pride,2011-07-25 00:00:00.000,2011-07-28 00:00:00.000,Fictitious,Oxford,16044
+,Creation Records Exhibition Oxford,2011-08-09 00:00:00.000,2011-08-16 00:00:00.000,Fictitious,Oxford,4806
+,Oxford Folk Festival,2011-09-11 00:00:00.000,2011-09-14 00:00:00.000,Fictitious,Oxford,8709
+,Oxford Beer Festival,2011-09-20 00:00:00.000,2011-09-27 00:00:00.000,Fictitious,Oxford,8964
+,Oxford Half Marathon,2011-10-23 00:00:00.000,2011-10-24 00:00:00.000,Fictitious,Oxford,4728
+,Oxford Christmas Market,2011-11-15 00:00:00.000,2011-11-22 00:00:00.000,Fictitious,Oxford,100925
+,Oxford Literary Festival,2012-03-02 00:00:00.000,2012-03-09 00:00:00.000,Fictitious,Oxford,23221
+,May Morning Oxford,2012-05-26 00:00:00.000,2012-05-28 00:00:00.000,Fictitious,Oxford,10721
+,Oxfordshire Arts Week,2012-06-01 00:00:00.000,2012-06-08 00:00:00.000,Fictitious,Oxford,30376
+,Cowley Road Carnival,2012-06-24 00:00:00.000,2012-06-27 00:00:00.000,Fictitious,Oxford,14902
+,Oxford Pride,2012-07-14 00:00:00.000,2012-07-21 00:00:00.000,Fictitious,Oxford,14423
+,Creation Records Exhibition Oxford,2012-08-23 00:00:00.000,2012-08-28 00:00:00.000,Fictitious,Oxford,4876
+,Oxford Beer Festival,2012-09-21 00:00:00.000,2012-09-28 00:00:00.000,Fictitious,Oxford,10442
+,Oxford Folk Festival,2012-09-28 00:00:00.000,2012-09-28 00:00:00.000,Fictitious,Oxford,8662
+,Oxford Half Marathon,2012-10-27 00:00:00.000,2012-10-28 00:00:00.000,Fictitious,Oxford,4978
+,Oxford Christmas Market,2012-11-12 00:00:00.000,2012-11-19 00:00:00.000,Fictitious,Oxford,95978
+,Oxford Literary Festival,2013-03-18 00:00:00.000,2013-03-25 00:00:00.000,Fictitious,Oxford,22786
+,May Morning Oxford,2013-05-12 00:00:00.000,2013-05-19 00:00:00.000,Fictitious,Oxford,11639
+,Oxfordshire Arts Week,2013-06-03 00:00:00.000,2013-06-10 00:00:00.000,Fictitious,Oxford,28017
+,Cowley Road Carnival,2013-06-26 00:00:00.000,2013-06-28 00:00:00.000,Fictitious,Oxford,14572
+,Oxford Pride,2013-07-26 00:00:00.000,2013-07-28 00:00:00.000,Fictitious,Oxford,15027
+,Creation Records Exhibition Oxford,2013-08-03 00:00:00.000,2013-08-10 00:00:00.000,Fictitious,Oxford,5422
+,Oxford Folk Festival,2013-09-04 00:00:00.000,2013-09-07 00:00:00.000,Fictitious,Oxford,8049
+,Oxford Beer Festival,2013-09-10 00:00:00.000,2013-09-17 00:00:00.000,Fictitious,Oxford,11193
+,Oxford Half Marathon,2013-10-16 00:00:00.000,2013-10-17 00:00:00.000,Fictitious,Oxford,4692
+,Oxford Christmas Market,2013-11-25 00:00:00.000,2013-11-28 00:00:00.000,Fictitious,Oxford,101042
+,Oxford Literary Festival,2014-03-10 00:00:00.000,2014-03-17 00:00:00.000,Fictitious,Oxford,24628
+,May Morning Oxford,2014-05-05 00:00:00.000,2014-05-12 00:00:00.000,Fictitious,Oxford,11263
+,Cowley Road Carnival,2014-06-22 00:00:00.000,2014-06-25 00:00:00.000,Fictitious,Oxford,16052
+,Oxfordshire Arts Week,2014-06-27 00:00:00.000,2014-06-28 00:00:00.000,Fictitious,Oxford,32973
+,Oxford Pride,2014-07-27 00:00:00.000,2014-07-28 00:00:00.000,Fictitious,Oxford,13209
+,Creation Records Exhibition Oxford,2014-08-28 00:00:00.000,2014-08-28 00:00:00.000,Fictitious,Oxford,5209
+,Oxford Folk Festival,2014-09-15 00:00:00.000,2014-09-18 00:00:00.000,Fictitious,Oxford,7069
+,Oxford Beer Festival,2014-09-24 00:00:00.000,2014-09-28 00:00:00.000,Fictitious,Oxford,9016
+,Oxford Half Marathon,2014-10-18 00:00:00.000,2014-10-19 00:00:00.000,Fictitious,Oxford,4573
+,Oxford Christmas Market,2014-11-15 00:00:00.000,2014-11-22 00:00:00.000,Fictitious,Oxford,110388
+,Oxford Literary Festival,2015-03-23 00:00:00.000,2015-03-28 00:00:00.000,Fictitious,Oxford,24908
+,May Morning Oxford,2015-05-14 00:00:00.000,2015-05-21 00:00:00.000,Fictitious,Oxford,12189
+,Oxfordshire Arts Week,2015-06-15 00:00:00.000,2015-06-22 00:00:00.000,Fictitious,Oxford,33218
+,Cowley Road Carnival,2015-06-21 00:00:00.000,2015-06-24 00:00:00.000,Fictitious,Oxford,16730
+,Oxford Pride,2015-07-24 00:00:00.000,2015-07-28 00:00:00.000,Fictitious,Oxford,14274
+,Creation Records Exhibition Oxford,2015-08-18 00:00:00.000,2015-08-25 00:00:00.000,Fictitious,Oxford,4856
+,Oxford Beer Festival,2015-09-04 00:00:00.000,2015-09-11 00:00:00.000,Fictitious,Oxford,10624
+,Oxford Folk Festival,2015-09-05 00:00:00.000,2015-09-08 00:00:00.000,Fictitious,Oxford,7827
+,Oxford Half Marathon,2015-10-07 00:00:00.000,2015-10-08 00:00:00.000,Fictitious,Oxford,5506
+,Oxford Christmas Market,2015-11-28 00:00:00.000,2015-11-28 00:00:00.000,Fictitious,Oxford,92527
+,Oxford Literary Festival,2016-03-01 00:00:00.000,2016-03-08 00:00:00.000,Fictitious,Oxford,27838
+,May Morning Oxford,2016-05-26 00:00:00.000,2016-05-28 00:00:00.000,Fictitious,Oxford,11078
+,Cowley Road Carnival,2016-06-16 00:00:00.000,2016-06-19 00:00:00.000,Fictitious,Oxford,16673
+,Oxfordshire Arts Week,2016-06-21 00:00:00.000,2016-06-28 00:00:00.000,Fictitious,Oxford,32391
+,Oxford Pride,2016-07-19 00:00:00.000,2016-07-26 00:00:00.000,Fictitious,Oxford,15287
+,Creation Records Exhibition Oxford,2016-08-11 00:00:00.000,2016-08-18 00:00:00.000,Fictitious,Oxford,5152
+,Oxford Folk Festival,2016-09-21 00:00:00.000,2016-09-24 00:00:00.000,Fictitious,Oxford,8902
+,Oxford Beer Festival,2016-09-23 00:00:00.000,2016-09-28 00:00:00.000,Fictitious,Oxford,10894
+,Oxford Half Marathon,2016-10-17 00:00:00.000,2016-10-18 00:00:00.000,Fictitious,Oxford,5295
+,Oxford Christmas Market,2016-11-23 00:00:00.000,2016-11-28 00:00:00.000,Fictitious,Oxford,93731
+http://www.wikidata.org/entity/Q12723354,2010 European Women's Artistic Gymnastics Championships,2010-01-01 00:00:00.000,2099-12-31 00:00:00.000,Sports,Birmingham,6500
+http://www.wikidata.org/entity/Q2093779,2010 European Men's Artistic Gymnastics Championships,2010-01-01 00:00:00.000,2099-12-31 00:00:00.000,Sports,Birmingham,7200
+http://www.wikidata.org/entity/Q2954531,2010 European Artistic Gymnastics Championships,2010-04-21 00:00:00.000,2010-05-02 00:00:00.000,Sports,Birmingham,12000
+http://www.wikidata.org/entity/Q2955685,2011 Trampoline World Championships,2011-01-01 00:00:00.000,2099-12-31 00:00:00.000,Sports,Birmingham,5000
+http://www.wikidata.org/entity/Q3631116,2011 Birmingham Grand Prix,2011-08-26 00:00:00.000,2099-12-31 00:00:00.000,Sports,Birmingham,19000
+http://www.wikidata.org/entity/Q733526,2012 UCI BMX World Championships,2012-01-01 00:00:00.000,2012-05-27 00:00:00.000,Sports,Birmingham,22000
+http://www.wikidata.org/entity/Q2502735,2012 FA Community Shield,2012-08-12 00:00:00.000,2099-12-31 00:00:00.000,Sports,Birmingham,78000
+http://www.wikidata.org/entity/Q9162952,2012 British Grand Prix,2012-08-26 00:00:00.000,2099-12-31 00:00:00.000,Sports,Birmingham,20000
+http://www.wikidata.org/entity/Q124044088,Recent Appointees in Polymer Science 2012,2012-09-12 00:00:00.000,2012-09-12 00:00:00.000,Sports,Birmingham,200
+http://www.wikidata.org/entity/Q14329777,2013 British Grand Prix,2013-06-30 00:00:00.000,2099-12-31 00:00:00.000,Sports,Birmingham,20000
+http://www.wikidata.org/entity/Q16530764,2014 British Grand Prix,2014-08-24 00:00:00.000,2099-12-31 00:00:00.000,Sports,Birmingham,20000
+http://www.wikidata.org/entity/Q24251370,2016 Birmingham Grand Prix,2016-06-05 00:00:00.000,2099-12-31 00:00:00.000,Sports,Birmingham,19000
+http://www.wikidata.org/entity/Q21995530,2016 British Artistic Gymnastics Championships,2016-01-01 00:00:00.000,2099-12-31 00:00:00.000,Sports,Liverpool,8000
+http://www.wikidata.org/entity/Q476638,2010 Wimbledon Championships,2010-06-21 00:00:00.000,2010-07-04 00:00:00.000,Sports,London,490000
+http://www.wikidata.org/entity/Q245073,2011 Wimbledon Championships,2011-06-20 00:00:00.000,2011-07-03 00:00:00.000,Sports,London,490000
+http://www.wikidata.org/entity/Q58819280,4th International SWAT4LS conference,2011-12-07 00:00:00.000,2011-12-07 00:00:00.000,Sports,London,400
+http://www.wikidata.org/entity/Q280865,2012 FINA Diving World Cup,2012-01-01 00:00:00.000,2099-12-31 00:00:00.000,Sports,London,8000
+http://www.wikidata.org/entity/Q284435,gymnastics at the 2012 Summer Olympics — women's artistic team all-around,2012-01-01 00:00:00.000,2099-12-31 00:00:00.000,Sports,London,18000
+http://www.wikidata.org/entity/Q374383,tennis at the 2012 Summer Olympics — men's doubles,2012-01-01 00:00:00.000,2099-12-31 00:00:00.000,Sports,London,30000
+http://www.wikidata.org/entity/Q829370,tennis at the 2012 Summer Olympics — women's singles,2012-01-01 00:00:00.000,2099-12-31 00:00:00.000,Sports,London,30000
+http://www.wikidata.org/entity/Q840683,tennis at the 2012 Summer Olympics — mixed doubles,2012-01-01 00:00:00.000,2099-12-31 00:00:00.000,Sports,London,30000
+http://www.wikidata.org/entity/Q841622,tennis at the 2012 Summer Olympics — women's doubles,2012-01-01 00:00:00.000,2099-12-31 00:00:00.000,Sports,London,30000
+http://www.wikidata.org/entity/Q916174,cycling at the 2012 Summer Olympics — men's road time trial,2012-01-01 00:00:00.000,2099-12-31 00:00:00.000,Sports,London,180000
+http://www.wikidata.org/entity/Q3764536,2012 Gymnastics Olympic Test Event,2012-01-10 00:00:00.000,2012-01-18 00:00:00.000,Sports,London,9000
+http://www.wikidata.org/entity/Q289587,2012 Wimbledon Championships,2012-06-25 00:00:00.000,2012-07-08 00:00:00.000,Sports,London,490000
+http://www.wikidata.org/entity/Q721620,football at the 2012 Summer Olympics — women's tournament,2012-07-25 00:00:00.000,2012-08-09 00:00:00.000,Sports,London,70000
+http://www.wikidata.org/entity/Q47608,football at the 2012 Summer Olympics — men's tournament,2012-07-26 00:00:00.000,2012-08-11 00:00:00.000,Sports,London,70000
+http://www.wikidata.org/entity/Q775427,handball at the 2012 Summer Olympics — women's tournament,2012-07-27 00:00:00.000,2012-08-11 00:00:00.000,Sports,London,22000
+http://www.wikidata.org/entity/Q1140736,badminton at the 2012 Summer Olympics — men's singles,2012-07-28 00:00:00.000,2012-08-05 00:00:00.000,Sports,London,15000
+http://www.wikidata.org/entity/Q1337276,badminton at the 2012 Summer Olympics — men's doubles,2012-07-28 00:00:00.000,2012-08-05 00:00:00.000,Sports,London,15000
+http://www.wikidata.org/entity/Q1345726,badminton at the 2012 Summer Olympics — women's singles,2012-07-28 00:00:00.000,2012-08-04 00:00:00.000,Sports,London,15000
+http://www.wikidata.org/entity/Q1414502,badminton at the 2012 Summer Olympics — mixed doubles,2012-07-28 00:00:00.000,2012-08-03 00:00:00.000,Sports,London,15000
+http://www.wikidata.org/entity/Q1464256,badminton at the 2012 Summer Olympics — women's doubles,2012-07-28 00:00:00.000,2012-08-04 00:00:00.000,Sports,London,15000
+http://www.wikidata.org/entity/Q265038,volleyball at the 2012 Summer Olympics — women's tournament,2012-07-28 00:00:00.000,2012-08-11 00:00:00.000,Sports,London,25000
+http://www.wikidata.org/entity/Q30822,tennis at the 2012 Summer Olympics,2012-07-28 00:00:00.000,2012-08-05 00:00:00.000,Sports,London,30000
+http://www.wikidata.org/entity/Q426154,handball at the 2012 Summer Olympics — men's tournament,2012-07-28 00:00:00.000,2012-08-12 00:00:00.000,Sports,London,22000
+http://www.wikidata.org/entity/Q581788,tennis at the 2012 Summer Olympics — men's singles,2012-07-28 00:00:00.000,2012-08-05 00:00:00.000,Sports,London,30000
+http://www.wikidata.org/entity/Q655463,basketball at the 2012 Summer Olympics — women's tournament,2012-07-28 00:00:00.000,2012-08-11 00:00:00.000,Sports,London,35000
+http://www.wikidata.org/entity/Q754412,cycling at the 2012 Summer Olympics — men's road race,2012-07-28 00:00:00.000,2099-12-31 00:00:00.000,Sports,London,180000
+http://www.wikidata.org/entity/Q749036,basketball at the 2012 Summer Olympics — men's tournament,2012-07-29 00:00:00.000,2012-08-12 00:00:00.000,Sports,London,35000
+http://www.wikidata.org/entity/Q843287,cycling at the 2012 Summer Olympics — women's road race,2012-07-29 00:00:00.000,2099-12-31 00:00:00.000,Sports,London,180000
+http://www.wikidata.org/entity/Q843441,volleyball at the 2012 Summer Olympics — men's tournament,2012-07-29 00:00:00.000,2012-08-12 00:00:00.000,Sports,London,25000
+http://www.wikidata.org/entity/Q848659,water polo at the 2012 Summer Olympics — men's tournament,2012-07-29 00:00:00.000,2012-08-12 00:00:00.000,Sports,London,12000
+http://www.wikidata.org/entity/Q843846,water polo at the 2012 Summer Olympics — women's tournament,2012-07-30 00:00:00.000,2012-08-09 00:00:00.000,Sports,London,12000
+http://www.wikidata.org/entity/Q939000,cycling at the 2012 Summer Olympics — women's road time trial,2012-08-01 00:00:00.000,2099-12-31 00:00:00.000,Sports,London,180000
+http://www.wikidata.org/entity/Q2000988,athletics at the 2012 Summer Olympics — women's marathon,2012-08-05 00:00:00.000,2099-12-31 00:00:00.000,Sports,London,80000
+http://www.wikidata.org/entity/Q1064845,swimming at the 2012 Summer Olympics — women's marathon 10 kilometre,2012-08-09 00:00:00.000,2099-12-31 00:00:00.000,Sports,London,12000
+http://www.wikidata.org/entity/Q2268451,swimming at the 2012 Summer Olympics — men's marathon 10 kilometre,2012-08-10 00:00:00.000,2099-12-31 00:00:00.000,Sports,London,12000
+http://www.wikidata.org/entity/Q1798983,athletics at the 2012 Summer Olympics — men's marathon,2012-08-12 00:00:00.000,2099-12-31 00:00:00.000,Sports,London,80000
+http://www.wikidata.org/entity/Q13415317,2013 Aegon Championships,2013-06-08 00:00:00.000,2013-06-16 00:00:00.000,Sports,London,97000
+http://www.wikidata.org/entity/Q559726,2013 Wimbledon Championships,2013-06-24 00:00:00.000,2013-07-07 00:00:00.000,Sports,London,490000
+http://www.wikidata.org/entity/Q16969058,2014 Aegon Championships,2014-06-09 00:00:00.000,2014-06-15 00:00:00.000,Sports,London,97000
+http://www.wikidata.org/entity/Q15854765,2014 Wimbledon Championships,2014-06-23 00:00:00.000,2014-07-06 00:00:00.000,Sports,London,490000
+http://www.wikidata.org/entity/Q124540980,"Joly Braga Santos Piano Concerto Op. 52, London, 6 June 2015",2015-06-06 00:00:00.000,2015-06-06 00:00:00.000,Music,London,1800
+http://www.wikidata.org/entity/Q19870230,2015 Aegon Championships,2015-06-15 00:00:00.000,2015-06-21 00:00:00.000,Sports,London,97000
+http://www.wikidata.org/entity/Q18410121,2015 Wimbledon Championships,2015-06-29 00:00:00.000,2015-07-12 00:00:00.000,Sports,London,490000
+http://www.wikidata.org/entity/Q20405792,2015 Saudi Super Cup,2015-08-12 00:00:00.000,2099-12-31 00:00:00.000,Sports,London,12000
+http://www.wikidata.org/entity/Q124030508,Muse at The O2 Arena 2016,2016-01-01 00:00:00.000,2016-01-01 00:00:00.000,Music,London,20000
+http://www.wikidata.org/entity/Q25385902,ESL Pro League Season 3,2016-02-09 00:00:00.000,2016-05-15 00:00:00.000,Sports,London,14500
+http://www.wikidata.org/entity/Q48837874,ESL Pro League Season 2,2016-02-09 00:00:00.000,2016-05-15 00:00:00.000,Sports,London,14500
+http://www.wikidata.org/entity/Q24262960,2016 Aegon Championships,2016-06-13 00:00:00.000,2016-06-19 00:00:00.000,Sports,London,97000
+http://www.wikidata.org/entity/Q20127632,2016 Wimbledon Championships,2016-06-27 00:00:00.000,2016-07-10 00:00:00.000,Sports,London,490000
+http://www.wikidata.org/entity/Q4618936,2010 World Lacrosse Championship,2010-07-15 00:00:00.000,2010-07-24 00:00:00.000,Sports,Manchester,8500
+http://www.wikidata.org/entity/Q42305826,QED,2011-01-01 00:00:00.000,2099-12-31 00:00:00.000,Sports,Manchester,1200
+http://www.wikidata.org/entity/Q4707938,Alan Turing Centenary Conference,2012-06-22 00:00:00.000,2012-06-25 00:00:00.000,Sports,Manchester,800
+http://www.wikidata.org/entity/Q20806161,2013 World Taekwondo Grand Prix,2013-01-01 00:00:00.000,2099-12-31 00:00:00.000,Sports,Manchester,4500
+http://www.wikidata.org/entity/Q24883365,2012 IQA Summer Games,2012-01-01 00:00:00.000,2099-12-31 00:00:00.000,Sports,Oxford,3000
+http://www.wikidata.org/entity/Q19689766,European Quidditch Cup 2015,2015-04-18 00:00:00.000,2015-04-19 00:00:00.000,Sports,Oxford,2500
