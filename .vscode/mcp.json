@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "ldi-fabric-agent": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["/opt/ldi-mcp/ldi-fabric-agent.min.mjs"]
+    }
+  }
+}
