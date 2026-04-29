@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "ldi-pbi-developer": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["/opt/ldi-mcp/ldi-pbi-developer.min.mjs"]
+    }
+  }
+}

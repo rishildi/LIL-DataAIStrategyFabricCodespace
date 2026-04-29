@@ -1,0 +1,1 @@
+https://zomalex.co.uk/power-bi-courses/modern_data_model.html

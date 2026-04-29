@@ -1,0 +1,11 @@
+PropertyID,HotelID,HotelName,City,Country,OpeningDate,CurrentManager,RoomCount,HotelAddress
+1,LH-2202,Landon Picadilly,London,United Kingdom,2009-03-15 00:00:00.000,Sophie Marchetti,187,
+2,LH-7450,Landon Westminster,London,United Kingdom,2010-06-01 00:00:00.000,David Chen,142,1 Parliament Square London SW1P 3BD England
+3,LH-4458,Landon Cambridge,Cambridge,United Kingdom,2011-02-14 00:00:00.000,Rachel Kowalski,94,22 King's Parade Cambridge CB2 1SJ England
+4,LH-7831,Landon Victoria,London,United Kingdom,2011-09-22 00:00:00.000,Tariq Al-Mansouri,163,12 Buckingham Palace Road London SW1W 0QP England
+5,LH-5976,Landon Oxford,Oxford,United Kingdom,2012-05-10 00:00:00.000,David Chen,88,"14 Broad Street, Oxford OX1 3AS, England"
+6,LH-5805,Landon Manchester,Manchester,United Kingdom,2013-03-01 00:00:00.000,Amara Diallo,118,8 Piccadilly Gardens Manchester M1 1RG England
+7,LH-1486,Landon Birmingham,Birmingham,United Kingdom,2013-11-18 00:00:00.000,Tariq Al-Mansouri,105,55 Colmore Row Birmingham B3 2AA England
+8,LH-2270,Landon Leeds,Leeds,United Kingdom,2014-07-07 00:00:00.000,James Okafor,97,15 The Headrow Leeds LS1 6PT England
+9,LH-3105,Landon Brighton,Brighton,United Kingdom,2015-04-20 00:00:00.000,Priya Nair,76,10 The Lanes Brighton BN1 1UL England
+10,LH-2738,Landon Liverpool,Liverpool,United Kingdom,2016-01-11 00:00:00.000,Sophie Marchetti,112,"30 Lime Street, Liverpool L1 1JQ, England"
