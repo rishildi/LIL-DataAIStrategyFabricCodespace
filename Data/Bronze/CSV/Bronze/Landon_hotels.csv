@@ -1,0 +1,11 @@
+﻿Property_ID,Hotel_ID,Hotel,City,Country,OpeningDate,CurrentManager,No_of_Rooms
+1,LH-2202,Landon Picadilly,London,United Kingdom,15/03/2009,Sophie Marchetti,187
+2,LH-7450,Landon Westminster,London,United Kingdom,01/06/2010,David Chen,142
+3,LH-4458,Landon Cambridge,Cambridge,United Kingdom,14/02/2011,Rachel Kowalski,94
+4,LH-7831,Landon Victoria,London,United Kingdom,22/09/2011,Tariq Al-Mansouri,163
+5,LH-5976,Landon Oxford,Oxford,United Kingdom,10/05/2012,David Chen,88
+6,LH-5805,Landon Manchester,Manchester,United Kingdom,01/03/2013,Amara Diallo,118
+7,LH-1486,Landon Birmingham,Birmingham,United Kingdom,18/11/2013,Tariq Al-Mansouri,105
+8,LH-2270,Landon Leeds,Leeds,United Kingdom,07/07/2014,James Okafor,97
+9,LH-3105,Landon Brighton,Brighton,United Kingdom,20/04/2015,Priya Nair,76
+10,LH-2738,Landon Liverpool,Liverpool,United Kingdom,11/01/2016,Sophie Marchetti,112

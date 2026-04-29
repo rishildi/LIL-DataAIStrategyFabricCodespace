@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "ldi-fabric-developer": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["/opt/ldi-mcp/ldi-fabric-developer.min.mjs"]
+    }
+  }
+}

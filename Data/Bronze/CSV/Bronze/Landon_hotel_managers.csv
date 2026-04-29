@@ -1,0 +1,18 @@
+Manager_ID,Manager_Name,Hotel_ID,Hotel,StartDate,EndDate,IsCurrent
+MGR-001,James Okafor,LH-2202,Landon Picadilly,15/03/2009,30/04/2011,No
+MGR-002,Priya Nair,LH-2202,Landon Picadilly,01/05/2011,31/08/2013,No
+MGR-003,Sophie Marchetti,LH-2202,Landon Picadilly,01/09/2013,31/12/2016,Yes
+MGR-001,James Okafor,LH-7450,Landon Westminster,01/06/2010,31/08/2013,No
+MGR-004,David Chen,LH-7450,Landon Westminster,01/09/2013,31/12/2016,Yes
+MGR-005,Amara Diallo,LH-4458,Landon Cambridge,14/02/2011,31/03/2014,No
+MGR-006,Rachel Kowalski,LH-4458,Landon Cambridge,01/04/2014,31/12/2016,Yes
+MGR-003,Sophie Marchetti,LH-7831,Landon Victoria,22/09/2011,31/08/2013,No
+MGR-007,Tariq Al-Mansouri,LH-7831,Landon Victoria,01/09/2013,31/12/2016,Yes
+MGR-002,Priya Nair,LH-5976,Landon Oxford,10/05/2012,30/06/2015,No
+MGR-004,David Chen,LH-5976,Landon Oxford,01/07/2015,31/12/2016,Yes
+MGR-005,Amara Diallo,LH-5805,Landon Manchester,01/03/2013,31/12/2016,Yes
+MGR-006,Rachel Kowalski,LH-1486,Landon Birmingham,18/11/2013,30/09/2015,No
+MGR-007,Tariq Al-Mansouri,LH-1486,Landon Birmingham,01/10/2015,31/12/2016,Yes
+MGR-001,James Okafor,LH-2270,Landon Leeds,07/07/2014,31/12/2016,Yes
+MGR-002,Priya Nair,LH-3105,Landon Brighton,20/04/2015,31/12/2016,Yes
+MGR-003,Sophie Marchetti,LH-2738,Landon Liverpool,11/01/2016,31/12/2016,Yes
